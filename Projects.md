@@ -64,11 +64,15 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 **Project Idea**: "Reading the news these days can be depressing. There are barrage of articles detailing all of the problems that exist in the world which often leaves readers feeling overwhelmed and asking themselves how can I help. However, right now there doesn't exist as an easy path for them to convert their motivation to help into an actionable solution. I created Giver, an NLP powered chrome extension that interfaces with news websites to suggest charities related to the content of the news article you are reading."
 
+![](./media/giver.gif)
+
 [Giver]([https://platform.insightdata.com/projects/giver](https://platform.insightdata.com/projects/giver)) by [Avi Chanales]([https://www.linkedin.com/in/avi-chanales-05a17050/](https://www.linkedin.com/in/avi-chanales-05a17050/))
 
 **Why was this idea strong?**: This project was a great example of how a fellow can build something for social good. It hones in on a problem that affects many people and importantly, presents the user with actions. The user is then empowered with choices.
 
 **Project Idea**: "Staying on a diet is tough. Only 20% of dieters stay on a regime after one month of starting. For folks in the ketogenic diet the problem is heightened by lack of options when choosing to eat out. A combination of a stringent regime and lack of readily available nutritional information on most restaurants spell disaster for the aspiring dieter. I developed an app, using menu information from local restaurants and nutritional information form mayor chain restaurants to locate meal options for ketogenic dieters at the click of a button."
+
+![](./media/goketo.svg)
 
 [GoKeto]([https://platform.insightdata.com/projects/goketo](https://platform.insightdata.com/projects/goketo)) by [Daniel Beltran-Villegas]([https://www.linkedin.com/in/daniel-beltran-villegas/](https://www.linkedin.com/in/daniel-beltran-villegas/))
 
@@ -127,6 +131,6 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzExNTM1Nyw4MjE5OTkzOTYsMTkwOT
-cxNjQ1OSwzNTM5NTU2NDZdfQ==
+eyJoaXN0b3J5IjpbLTE2MDg1NjEyMDEsODIxOTk5Mzk2LDE5MD
+k3MTY0NTksMzUzOTU1NjQ2XX0=
 -->
