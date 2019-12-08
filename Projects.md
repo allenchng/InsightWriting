@@ -26,13 +26,13 @@ Starting with a problem and a user-base anchors your project and helps motivate 
 
 ![](./media/airbntot.gif)
 
-[AirBn'Tots]([https://platform.insightdata.com/projects/airbntots](https://platform.insightdata.com/projects/airbntots)) by [Yaarit Even]([https://www.linkedin.com/in/yaarit-even/](https://www.linkedin.com/in/yaarit-even/))
+[AirBn'Tots]([https://platform.insightdata.com/projects/airbntots](https://platform.insightdata.com/projects/airbntots)) by [Yaarit Even](https://www.linkedin.com/in/yaarit-even/)
 
 **Why was this idea strong?**: This project identified an issue that many people resonated with, traveling with young children. It also tapped into a shared anxiety of trying to find places to stay that would provide a safe environment. It went on to further specify that AirBnB currently does not offer an easily accessible method of identifying suitable listings, which is where this fellow's product came in. While many have done AirBnB projects before, this fellow found a novel perspective that had not been filled.
 
 **Project Idea**: "Finding art for your home is difficult for most budgets. Searching for art online is especially difficult because online retailers use keywords to describe visual imagery, which cannot always capture the visual subtleties. My solution is to improve the art purchasing process by searching for art based on latent image features and computer vision and providing similar pieces of art at multiple price points."
 
-Paint by numbers by [Justin Morse]([https://www.linkedin.com/in/jcmorse/](https://www.linkedin.com/in/jcmorse/))
+Paint by numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
 
 **Why was this idea strong?**: In the e-commerce world, consumers are often paralyzed by an overabundance of choice. This project helped simplify the purchasing process by allowing users to drop in or take a picture of their favorite of art and find similar pieces on Etsy and Artsy. Not only did it help solve a problem, but it provided options that were accessible to a wide range of individuals.
 
@@ -50,7 +50,7 @@ Sometimes you will have a great idea for a project, but the data simply does not
 
 ![](./media/treefall_nyc.svg)
 
-[TreeFall NYC]([https://platform.insightdata.com/projects/treefall-nyc](https://platform.insightdata.com/projects/treefall-nyc)) by [Brianne Hendrickson-Smith]([https://www.linkedin.com/in/briannekhsmith/](https://www.linkedin.com/in/briannekhsmith/))
+[TreeFall NYC](https://platform.insightdata.com/projects/treefall-nyc) by [Brianne Hendrickson-Smith](https://www.linkedin.com/in/briannekhsmith/)
 
 **What made this project idea stand out?**: This project not only had a strong problem that served the public good, but it also demonstrated the ability to combine messy datasets from different sources. All of the data for this project was publicly available from NYC Open Data. Brianne's project involved combining multiple open datasets that spanned across 311 requests, individualized tree information, and geographical data.  
 
@@ -66,7 +66,7 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 ![](./media/giver.gif)
 
-[Giver](https://platform.insightdata.com/projects/giver) by [Avi Chanales(https://www.linkedin.com/in/avi-chanales-05a17050/)
+[Giver](https://platform.insightdata.com/projects/giver) by [Avi Chanales](https://www.linkedin.com/in/avi-chanales-05a17050/)
 
 **Why was this idea strong?**: This project was a great example of how a fellow can build something for social good. It hones in on a problem that affects many people and importantly, presents the user with actions. The user is then empowered with choices.
 
@@ -131,6 +131,6 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMTkxNDI0LC0xNjA4NTYxMjAxLDgyMT
-k5OTM5NiwxOTA5NzE2NDU5LDM1Mzk1NTY0Nl19
+eyJoaXN0b3J5IjpbMTc3NDY2NjY4MiwtMTYwODU2MTIwMSw4Mj
+E5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZdfQ==
 -->
