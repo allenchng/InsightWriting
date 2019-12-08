@@ -24,7 +24,7 @@ Starting with a problem and a user-base anchors your project and helps motivate 
 
 **Project Idea**: "Families traveling with young children are focused on finding a kid-friendly place to stay. Many families choose to stay at Airbnb homes because of the amenities they offer compared to a hotel. However, it is not easy to find the young-kid friendly listings. Currently, Airbnb does not differentiate between families with young children and between families with older children, who clearly have different needs. My goal is to help those who are traveling with young children (ages 1-6) to find the perfect Airbnb listing for their next vacation."
 
-![](./media/[airbntot.gif/airbntot.gif)
+![](./media/airbntot.gif)
 
 [AirBn'Tots]([https://platform.insightdata.com/projects/airbntots](https://platform.insightdata.com/projects/airbntots)) by [Yaarit Even]([https://www.linkedin.com/in/yaarit-even/](https://www.linkedin.com/in/yaarit-even/))
 
@@ -125,6 +125,6 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxOTk5Mzk2LDE5MDk3MTY0NTksMzUzOT
-U1NjQ2XX0=
+eyJoaXN0b3J5IjpbNTc1OTAxNDMsODIxOTk5Mzk2LDE5MDk3MT
+Y0NTksMzUzOTU1NjQ2XX0=
 -->
