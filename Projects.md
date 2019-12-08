@@ -74,7 +74,7 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 ![](./media/goketo.svg)
 
-[GoKeto]([https://platform.insightdata.com/projects/goketo](https://platform.insightdata.com/projects/goketo)) by [Daniel Beltran-Villegas]([https://www.linkedin.com/in/daniel-beltran-villegas/](https://www.linkedin.com/in/daniel-beltran-villegas/))
+[GoKeto](https://platform.insightdata.com/projects/goketo) by [Daniel Beltran-Villegas](https://www.linkedin.com/in/daniel-beltran-villegas/)
 
 **Why was this idea strong?**: 
 
@@ -131,6 +131,6 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg1NjEyMDEsODIxOTk5Mzk2LDE5MD
-k3MTY0NTksMzUzOTU1NjQ2XX0=
+eyJoaXN0b3J5IjpbLTEyMjEyODI5NzIsLTE2MDg1NjEyMDEsOD
+IxOTk5Mzk2LDE5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
 -->
