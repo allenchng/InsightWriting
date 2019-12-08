@@ -76,7 +76,7 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 [GoKeto](https://platform.insightdata.com/projects/goketo) by [Daniel Beltran-Villegas](https://www.linkedin.com/in/daniel-beltran-villegas/)
 
-**Why was this idea strong?**: 
+**Why was this idea strong?**: This project identified a core user (people on the keto diet), their pain point (difficulty knowing what restaurants can accommodate their dietary restrictions), and offered them a solution that provided actionable insight (restaurants in the area with keto friendly menu items). It checked all the boxes. 
 
 
 ## What pitfalls should I avoid when brainstorming project ideas?
@@ -131,6 +131,7 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDY2NjY4MiwtMTYwODU2MTIwMSw4Mj
-E5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZdfQ==
+eyJoaXN0b3J5IjpbMjA1NzI4OTcyMywxNzc0NjY2NjgyLC0xNj
+A4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2NDU5LDM1Mzk1NTY0
+Nl19
 -->
