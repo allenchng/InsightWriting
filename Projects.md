@@ -26,7 +26,7 @@ Starting with a problem and a user-base anchors your project and helps motivate 
 
 ![](./media/airbntot.gif)
 
-[AirBn'Tots]([https://platform.insightdata.com/projects/airbntots](https://platform.insightdata.com/projects/airbntots)) by [Yaarit Even](https://www.linkedin.com/in/yaarit-even/)
+[AirBn'Tots](https://platform.insightdata.com/projects/airbntots( by [Yaarit Even](https://www.linkedin.com/in/yaarit-even/)
 
 **Why was this idea strong?**: This project identified an issue that many people resonated with, traveling with young children. It also tapped into a shared anxiety of trying to find places to stay that would provide a safe environment. It went on to further specify that AirBnB currently does not offer an easily accessible method of identifying suitable listings, which is where this fellow's product came in. While many have done AirBnB projects before, this fellow found a novel perspective that had not been filled.
 
@@ -131,7 +131,7 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzI4OTcyMywxNzc0NjY2NjgyLC0xNj
-A4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2NDU5LDM1Mzk1NTY0
-Nl19
+eyJoaXN0b3J5IjpbNzQwNTg1NzYsMTc3NDY2NjY4MiwtMTYwOD
+U2MTIwMSw4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZd
+fQ==
 -->
