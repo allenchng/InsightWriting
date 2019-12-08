@@ -48,7 +48,7 @@ Sometimes you will have a great idea for a project, but the data simply does not
 
 **Project idea**: "NYC Parks is tasked with managing over 600,000 street trees, but has the resources to inspect and maintain less than 50,000 trees per year. Currently, NYC relies on highly-biased citizen-submitted tree service requests to prioritize trees for maintenance, which results in over 10,000 tree branch falls per year and substantial cost to the City. I created a preventative tree maintenance prioritization tool for NYC Parks that uses an un-biased data driven approach. Prioritization is based on a tree's predicted branch fall probability."
 
-!(./media/treefall_nyc.svg)
+![test](./media/treefall_nyc.svg)
 
 [TreeFall NYC]([https://platform.insightdata.com/projects/treefall-nyc](https://platform.insightdata.com/projects/treefall-nyc)) by [Brianne Hendrickson-Smith]([https://www.linkedin.com/in/briannekhsmith/](https://www.linkedin.com/in/briannekhsmith/))
 
@@ -127,6 +127,6 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczMDkwNTcsODIxOTk5Mzk2LDE5MD
-k3MTY0NTksMzUzOTU1NjQ2XX0=
+eyJoaXN0b3J5IjpbMjA2MjE5MTg1NSw4MjE5OTkzOTYsMTkwOT
+cxNjQ1OSwzNTM5NTU2NDZdfQ==
 -->
