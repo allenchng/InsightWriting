@@ -66,7 +66,7 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 ![](./media/giver.gif)
 
-[Giver]([https://platform.insightdata.com/projects/giver](https://platform.insightdata.com/projects/giver)) by [Avi Chanales]([https://www.linkedin.com/in/avi-chanales-05a17050/](https://www.linkedin.com/in/avi-chanales-05a17050/))
+[Giver](https://platform.insightdata.com/projects/giver) by [Avi Chanales(https://www.linkedin.com/in/avi-chanales-05a17050/)
 
 **Why was this idea strong?**: This project was a great example of how a fellow can build something for social good. It hones in on a problem that affects many people and importantly, presents the user with actions. The user is then empowered with choices.
 
@@ -131,6 +131,6 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEyODI5NzIsLTE2MDg1NjEyMDEsOD
-IxOTk5Mzk2LDE5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
+eyJoaXN0b3J5IjpbNDIxMTkxNDI0LC0xNjA4NTYxMjAxLDgyMT
+k5OTM5NiwxOTA5NzE2NDU5LDM1Mzk1NTY0Nl19
 -->
