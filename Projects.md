@@ -14,13 +14,13 @@ Here are some questions to keep in mind as you brainstorm project ideas.
 
 ### Does your idea solve a problem?
 
-We've consistently found that the most successful projects at Insight solve problems. They start by identifying a pain point that you, a company, or community of users might have. For example, if your project is centered around adding a feature to a product...
+We've consistently found that the most successful projects at Insight are rooted around problems. Successful projects start by identifying a pain point that you, a company, or community of users might have. For example, if your project is centered around adding a feature to a product...
 
 1) Can you delineate how people are currently interacting with that product? 
 2) Can you identify what that product currently lacks that causes a pain point for users?
 3) Can you describe how your solution would provide actionable change for your user?
 
-Starting with a problem and a user-base anchors your project and helps motivate the subsequent choices you make in your project. Much like how you've probably had to give the "elevator pitch" for your research (describing it in two minutes or less), you should also be able to give an "elevator pitch" for your project idea.
+Starting with a problem and a user-base anchors your project and helps motivate the subsequent choices you make. Much like how you've probably had to give the "elevator pitch" for your research (describing it in two minutes or less), you should also be able to give an "elevator pitch" for your project idea.
 
 **Project Idea**: "Families traveling with young children are focused on finding a kid-friendly place to stay. Many families choose to stay at Airbnb homes because of the amenities they offer compared to a hotel. However, it is not easy to find the young-kid friendly listings. Currently, Airbnb does not differentiate between families with young children and between families with older children, who clearly have different needs. My goal is to help those who are traveling with young children (ages 1-6) to find the perfect Airbnb listing for their next vacation."
 
@@ -131,7 +131,7 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODc0Mzk4MywxNzc0NjY2NjgyLC0xNj
-A4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2NDU5LDM1Mzk1NTY0
-Nl19
+eyJoaXN0b3J5IjpbLTEyNTE2NTQ4NDUsLTM5ODc0Mzk4MywxNz
+c0NjY2NjgyLC0xNjA4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2
+NDU5LDM1Mzk1NTY0Nl19
 -->
