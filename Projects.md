@@ -32,7 +32,9 @@ Starting with a problem and a user-base anchors your project and helps motivate 
 
 **Example Project**: "Finding art for your home is difficult for most budgets. Searching for art online is especially difficult because online retailers use keywords to describe visual imagery, which cannot always capture the visual subtleties. My solution is to improve the art purchasing process by searching for art based on latent image features and computer vision and providing similar pieces of art at multiple price points."
 
-Paint by numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
+![](./media/paintbynumbers.svg)
+
+Paint by Numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
 
 **Why was this idea strong?**: In the e-commerce world, consumers are often paralyzed by an overabundance of choice. This project helped simplify the purchasing process by allowing users to drop in or take a picture of their favorite of art and find similar pieces on Etsy and Artsy. Not only did it help solve a problem, but it provided options that were accessible to a wide range of individuals.
 
@@ -131,7 +133,8 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDU3ODU5MCwtMTI1MTY1NDg0NSwtMz
-k4NzQzOTgzLDE3NzQ2NjY2ODIsLTE2MDg1NjEyMDEsODIxOTk5
-Mzk2LDE5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
+eyJoaXN0b3J5IjpbLTM1NTQ3NzkzOSwtOTI0NTc4NTkwLC0xMj
+UxNjU0ODQ1LC0zOTg3NDM5ODMsMTc3NDY2NjY4MiwtMTYwODU2
+MTIwMSw4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZdfQ
+==
 -->
