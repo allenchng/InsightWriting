@@ -22,7 +22,7 @@ We've consistently found that the most successful projects at Insight are rooted
 
 Starting with a problem and a user-base anchors your project and helps motivate the subsequent choices you make. Much like how you've probably had to give the "elevator pitch" for your research (describing it in two minutes or less), you should also be able to give an "elevator pitch" for your project idea.
 
-**Example Project**: "Families traveling with young children are focused on finding a kid-friendly place to stay. Many families choose to stay at Airbnb homes because of the amenities they offer compared to a hotel. However, it is not easy to find the young-kid friendly listings. Currently, Airbnb does not differentiate between families with young children and between families with older children, who clearly have different needs. My goal is to help those who are traveling with young children (ages 1-6) to find the perfect Airbnb listing for their next vacation."
+**Good example of a project**: "Families traveling with young children are focused on finding a kid-friendly place to stay. Many families choose to stay at Airbnb homes because of the amenities they offer compared to a hotel. However, it is not easy to find the young-kid friendly listings. Currently, Airbnb does not differentiate between families with young children and between families with older children, who clearly have different needs. My goal is to help those who are traveling with young children (ages 1-6) to find the perfect Airbnb listing for their next vacation."
 
 ![](./media/airbntot.gif)
 
@@ -133,8 +133,8 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTQ3NzkzOSwtOTI0NTc4NTkwLC0xMj
-UxNjU0ODQ1LC0zOTg3NDM5ODMsMTc3NDY2NjY4MiwtMTYwODU2
-MTIwMSw4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZdfQ
-==
+eyJoaXN0b3J5IjpbLTEyNDc1NzUzMCwtMzU1NDc3OTM5LC05Mj
+Q1Nzg1OTAsLTEyNTE2NTQ4NDUsLTM5ODc0Mzk4MywxNzc0NjY2
+NjgyLC0xNjA4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2NDU5LD
+M1Mzk1NTY0Nl19
 -->
