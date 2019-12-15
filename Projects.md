@@ -132,17 +132,17 @@ Success at Insight is often correlated with your ability to be flexible. Not all
 
 ## How else can I prepare for projects?
 
-You're off to a great start by reading this short guide. If you want to see additional projects by Insight alumni, you can read these articles ([https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb](https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb)), 
+You're off to a great start by reading this short guide. If you want to see additional projects by Insight alumni, you can read these articles ([https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb](https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb)), [https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
 
- If you want advice about projects straight from the mouths of Insight alumni, point your browser [here](). If you want to see descriptions of projects from previous Insight fellows, point your browser to [the platform](). Your program directors will also be scheduling a live webinar in which they'll talk again about their experiences developing their own projects, guiding fellows through project ideation, and answering questions.
+ If you want advice about projects straight from the mouths of Insight alumni, point your browser [here](). If you want to see descriptions of projects from previous Insight fellows, point your browser to [the platform]().
 
-We recommend coming to Insight with at least 3-5 different project ideas. Remember that you should be able to those core questions about who your users are, what problem you're trying to solve, and how it improves upon an existing process or behavior.
+We recommend coming to Insight with a list of project ideas. Remember that you should be able to those core questions about who your users are, what problem you're trying to solve, and how it improves upon an existing process or behavior.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTc3NTQzNiwtODI2MjU3MDYzLDQ2MT
-g4MzE0OCwtNTM2ODI3NjA4LDg2ODQ4NDg1MiwxNzU4NzI3Nzg3
-LC0zNTU0Nzc5MzksLTkyNDU3ODU5MCwtMTI1MTY1NDg0NSwtMz
-k4NzQzOTgzLDE3NzQ2NjY2ODIsLTE2MDg1NjEyMDEsODIxOTk5
-Mzk2LDE5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
+eyJoaXN0b3J5IjpbLTExNzc3NzAwNTIsLTgyNjI1NzA2Myw0Nj
+E4ODMxNDgsLTUzNjgyNzYwOCw4Njg0ODQ4NTIsMTc1ODcyNzc4
+NywtMzU1NDc3OTM5LC05MjQ1Nzg1OTAsLTEyNTE2NTQ4NDUsLT
+M5ODc0Mzk4MywxNzc0NjY2NjgyLC0xNjA4NTYxMjAxLDgyMTk5
+OTM5NiwxOTA5NzE2NDU5LDM1Mzk1NTY0Nl19
 -->
