@@ -96,7 +96,7 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 ### Starting with a data set
 
-One of the first impulses for many fellows is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started .
+One of the first impulses for many fellows is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
 
 ### Starting with a technique or technology
 
@@ -114,7 +114,7 @@ The goal of an Insight project is to showcase your creativity and thoughtfulness
 
 ### Identify the challenges that are unique to problems in your domain.
 
-As you develop your project, it is essential to understand and highlight the instances where your data does not conform to conventional norms. Companies are looking for data scientists that have an ability to grasp the nuances of data within their domain and apply that deep understanding to be creative in the ways that they model their data. Identifying why the problem you're tackling is more difficult than first meets the eye or bringing experience within a domain will demonstrate evidence of this ability.
+As you develop your project, it is essential to understand and highlight the instances where your data does not conform to conventional norms. Companies are looking for data scientists that have an ability to grasp the nuances of data within their domain and apply that deep understanding to be creative in the ways that they model their data. Identifying why the problem you are tackling is more difficult than first meets the eye or bringing experience within a domain will demonstrate evidence of this ability.
 
 ### Level up your projects by injecting the skills and techniques you have developed as a scientist. 
 
@@ -138,7 +138,7 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjAzMDc3Nyw0NjE4ODMxNDgsLTUzNj
+eyJoaXN0b3J5IjpbLTgyNjI1NzA2Myw0NjE4ODMxNDgsLTUzNj
 gyNzYwOCw4Njg0ODQ4NTIsMTc1ODcyNzc4NywtMzU1NDc3OTM5
 LC05MjQ1Nzg1OTAsLTEyNTE2NTQ4NDUsLTM5ODc0Mzk4MywxNz
 c0NjY2NjgyLC0xNjA4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2
