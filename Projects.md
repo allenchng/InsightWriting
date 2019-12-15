@@ -46,9 +46,11 @@ Paint by Numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
 
 Once you've defined a project idea, start thinking about what data you would need to solve this problem. Importantly, does that data exist? Continue to refer back to how your user, company, or community of users utilize data in their current behavior. How is that data captured? How much of that data is available and what can you do with it?
 
-Sometimes you will have a great idea for a project, but the data simply does not exist. That can be one of the hardest things to walk away from, but if the data is not available, your idea will never take off into a project.
+Sometimes you will have a great idea for a project, but the data simply does not exist or you can't access it. That can be one of the hardest things to walk away from, but if the data is not available, your idea will never take off into a project.
 
-**Poor example of a project idea**: "Retail and e-commerce businesses spend billions per year on shoe returns. Customers often purchase multiple sizes of the same type of shoe because they do not know how shoes may fit. My solution is to use returns data to help suggest the right shoe size for customers."
+---
+
+**Example**: "Retail and e-commerce businesses spend billions per year on shoe returns. Customers often purchase multiple sizes of the same type of shoe because they do not know how shoes may fit. My solution is to use returns data to help suggest the right shoe size for customers."
 
 **Why was this project idea abandoned?**: While this is clearly a problem that is relevant to businesses, this project was too ambitious in its scope. Retailers do not provide data on returns, and most shoes on e-commerce websites do not have many user reviews. This was also a problem that entire companies are devoted to solving, and it was extremely unlikely that this fellow would have been able to reach a satisfactory conclusion at the end of 4 weeks. 
 
@@ -137,8 +139,8 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDcwMTIyOSwxNzU4NzI3Nzg3LC0zNT
-U0Nzc5MzksLTkyNDU3ODU5MCwtMTI1MTY1NDg0NSwtMzk4NzQz
-OTgzLDE3NzQ2NjY2ODIsLTE2MDg1NjEyMDEsODIxOTk5Mzk2LD
-E5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
+eyJoaXN0b3J5IjpbODY4NDg0ODUyLDE3NTg3Mjc3ODcsLTM1NT
+Q3NzkzOSwtOTI0NTc4NTkwLC0xMjUxNjU0ODQ1LC0zOTg3NDM5
+ODMsMTc3NDY2NjY4MiwtMTYwODU2MTIwMSw4MjE5OTkzOTYsMT
+kwOTcxNjQ1OSwzNTM5NTU2NDZdfQ==
 -->
