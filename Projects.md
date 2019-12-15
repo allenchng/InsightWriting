@@ -6,7 +6,7 @@ Great! Projects are a core component of the Insight experience and represent an 
 
 Hiring data scientists is a challenging and expensive process for companies, both in time and money. For that reason, companies look for as much evidence as possible as to whether a candidate has the technical and behavioral skills that they're looking for. Projects at Insight are one such way that you can provide evidence to companies that you have the skills that they need to be successful in their workplace. 
 
-In an Insight project, you will demonstrate an ability to take a high value problem and translate it into something that can be solved with data. You will also prove that you can execute and build a solution for problems in a short amount of time. Projects are an opportunity for you to showcase the specialized set of skills that you have developed as a scientist over the course of your PhD. Finally, you will highlight your ability to present your work with technical and non-technical audiences.
+In an Insight project, you will demonstrate an ability to take a high value problem and translate it into something that can be solved with data. You will prove that you can execute and build a solution for problems in a short amount of time. Projects are also an opportunity for you to showcase the specialized set of skills that you have developed as a scientist over the course of your PhD. Finally, you will highlight your ability to present your work with technical and non-technical audiences.
 
 ## How do I come up with a good project idea?
 
@@ -133,8 +133,8 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODcyNzc4NywtMzU1NDc3OTM5LC05Mj
-Q1Nzg1OTAsLTEyNTE2NTQ4NDUsLTM5ODc0Mzk4MywxNzc0NjY2
-NjgyLC0xNjA4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2NDU5LD
-M1Mzk1NTY0Nl19
+eyJoaXN0b3J5IjpbLTk5ODU0NjEwOSwxNzU4NzI3Nzg3LC0zNT
+U0Nzc5MzksLTkyNDU3ODU5MCwtMTI1MTY1NDg0NSwtMzk4NzQz
+OTgzLDE3NzQ2NjY2ODIsLTE2MDg1NjEyMDEsODIxOTk5Mzk2LD
+E5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
 -->
