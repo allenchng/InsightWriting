@@ -132,7 +132,7 @@ Success at Insight is often correlated with your ability to be flexible. Not all
 
 ## How else can I prepare for projects?
 
-You're off to a great start by reading this short guide. If you want addit
+You're off to a great start by reading this short guide. If you want to see additional projects by Insight alumni, you can read these articles ([https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb](https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb)), 
 
  If you want advice about projects straight from the mouths of Insight alumni, point your browser [here](). If you want to see descriptions of projects from previous Insight fellows, point your browser to [the platform](). Your program directors will also be scheduling a live webinar in which they'll talk again about their experiences developing their own projects, guiding fellows through project ideation, and answering questions.
 
@@ -140,7 +140,7 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDM4MzQ4NSwtODI2MjU3MDYzLDQ2MT
+eyJoaXN0b3J5IjpbLTg2NTc3NTQzNiwtODI2MjU3MDYzLDQ2MT
 g4MzE0OCwtNTM2ODI3NjA4LDg2ODQ4NDg1MiwxNzU4NzI3Nzg3
 LC0zNTU0Nzc5MzksLTkyNDU3ODU5MCwtMTI1MTY1NDg0NSwtMz
 k4NzQzOTgzLDE3NzQ2NjY2ODIsLTE2MDg1NjEyMDEsODIxOTk5
