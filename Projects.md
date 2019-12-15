@@ -52,7 +52,7 @@ Sometimes you will have a great idea for a project, but the data simply does not
 
 **Example**: "Retail and e-commerce businesses spend billions per year on shoe returns. Customers often purchase multiple sizes of the same type of shoe because they do not know how shoes may fit. My solution is to use returns data to help suggest the right shoe size for customers."
 
-**Why was this project idea abandoned?**: While this is clearly a problem that is relevant to businesses, this project was too ambitious in its scope. Retailers do not provide data on returns, and most shoes on e-commerce websites do not have many user reviews. This was also a problem that entire companies are devoted to solving, and it was extremely unlikely that this fellow would have been able to reach a satisfactory conclusion at the end of 4 weeks. 
+**Why was this project idea abandoned?**: While this is clearly a problem that was relevant to businesses, this project was too ambitious in its scope. Retailers do not provide data on returns, and most shoes on e-commerce websites do not have many user reviews. This was also a problem that entire companies are devoted to solving, and it was extremely unlikely that this fellow would have been able to reach a satisfactory conclusion at the end of 4 weeks. 
 
 **Good example of a project idea**: "NYC Parks is tasked with managing over 600,000 street trees, but has the resources to inspect and maintain less than 50,000 trees per year. Currently, NYC relies on highly-biased citizen-submitted tree service requests to prioritize trees for maintenance, which results in over 10,000 tree branch falls per year and substantial cost to the City. I created a preventative tree maintenance prioritization tool for NYC Parks that uses an un-biased data driven approach. Prioritization is based on a tree's predicted branch fall probability."
 
@@ -60,7 +60,9 @@ Sometimes you will have a great idea for a project, but the data simply does not
 
 [TreeFall NYC](https://platform.insightdata.com/projects/treefall-nyc) by [Brianne Hendrickson-Smith](https://www.linkedin.com/in/briannekhsmith/)
 
-**What made this project idea stand out?**: This project not only had a strong problem that served the public good, but it also demonstrated the ability to combine messy datasets from different sources. All of the data for this project was publicly available from NYC Open Data. Brianne's project involved combining multiple open datasets that spanned across 311 requests, individualized tree information, and geographical data.  
+**What made this project idea stand out?**: This project not only had a strong problem that served the public good, but it also demonstrated the ability to combine messy datasets from different sources. All of the data for this project was publicly available from NYC Open Data. Brianne's project involved combining multiple open datasets that spanned across 311 requests, individualized tree information, and geographical data. 
+
+---
 
 ### Does your solution provide actionable insight?
 
@@ -139,8 +141,8 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NDg0ODUyLDE3NTg3Mjc3ODcsLTM1NT
-Q3NzkzOSwtOTI0NTc4NTkwLC0xMjUxNjU0ODQ1LC0zOTg3NDM5
-ODMsMTc3NDY2NjY4MiwtMTYwODU2MTIwMSw4MjE5OTkzOTYsMT
-kwOTcxNjQ1OSwzNTM5NTU2NDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjMyODMwMTIsODY4NDg0ODUyLDE3NT
+g3Mjc3ODcsLTM1NTQ3NzkzOSwtOTI0NTc4NTkwLC0xMjUxNjU0
+ODQ1LC0zOTg3NDM5ODMsMTc3NDY2NjY4MiwtMTYwODU2MTIwMS
+w4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZdfQ==
 -->
