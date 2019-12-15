@@ -110,13 +110,6 @@ When working with data, the technique and technology you use should align with w
 
 The goal of an Insight project is to showcase your creativity and thoughtfulness. Can you identify areas of need that are not already being covered? Replicating an existing product or a need that is already being served does not help showcase that ability to identify new areas of exploration.
 
----
-
-**Example**: "My project is to determine which method of transportation will be more cost efficient for people living in the outer boroughs; train, bus, or car."
-
-**Problem with this idea**: Google Maps. No solution would add meaningful improvement over checking Google Maps.
-
-
 ## How do I make my project stand out?
 
 ### Identify the challenges that are unique to problems in your domain.
@@ -145,8 +138,9 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjgyNzYwOCw4Njg0ODQ4NTIsMTc1OD
-cyNzc4NywtMzU1NDc3OTM5LC05MjQ1Nzg1OTAsLTEyNTE2NTQ4
-NDUsLTM5ODc0Mzk4MywxNzc0NjY2NjgyLC0xNjA4NTYxMjAxLD
-gyMTk5OTM5NiwxOTA5NzE2NDU5LDM1Mzk1NTY0Nl19
+eyJoaXN0b3J5IjpbNDYxODgzMTQ4LC01MzY4Mjc2MDgsODY4ND
+g0ODUyLDE3NTg3Mjc3ODcsLTM1NTQ3NzkzOSwtOTI0NTc4NTkw
+LC0xMjUxNjU0ODQ1LC0zOTg3NDM5ODMsMTc3NDY2NjY4MiwtMT
+YwODU2MTIwMSw4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2
+NDZdfQ==
 -->
