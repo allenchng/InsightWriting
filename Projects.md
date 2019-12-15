@@ -24,7 +24,7 @@ Starting with a problem and a user-base anchors your project and helps motivate 
 
 ---
 
-**Good example of a project idea**: "Families traveling with young children are focused on finding a kid-friendly place to stay. Many families choose to stay at Airbnb homes because of the amenities they offer compared to a hotel. However, it is not easy to find the young-kid friendly listings. Currently, Airbnb does not differentiate between families with young children and between families with older children, who clearly have different needs. My goal is to help those who are traveling with young children (ages 1-6) to find the perfect Airbnb listing for their next vacation."
+**Example**: "Families traveling with young children are focused on finding a kid-friendly place to stay. Many families choose to stay at Airbnb homes because of the amenities they offer compared to a hotel. However, it is not easy to find the young-kid friendly listings. Currently, Airbnb does not differentiate between families with young children and between families with older children, who clearly have different needs. My goal is to help those who are traveling with young children (ages 1-6) to find the perfect Airbnb listing for their next vacation."
 
 ![](./media/airbntot.gif)
 
@@ -32,7 +32,7 @@ Starting with a problem and a user-base anchors your project and helps motivate 
 
 **Why was this idea strong?**: This project identified an issue that many people resonated with, traveling with young children. It also tapped into a shared anxiety of trying to find places to stay that would provide a safe environment. It went on to further specify that AirBnB currently does not offer an easily accessible method of identifying suitable listings, which is where this fellow's product came in. While many have done AirBnB projects before, this fellow found a novel perspective that had not been filled.
 
-**Good example of a project idea**: "Finding art for your home is difficult for most budgets. Searching for art online is especially difficult because online retailers use keywords to describe visual imagery, which cannot always capture the visual subtleties. My solution is to improve the art purchasing process by searching for art based on latent image features and computer vision and providing similar pieces of art at multiple price points."
+**Example**: "Finding art for your home is difficult for most budgets. Searching for art online is especially difficult because online retailers use keywords to describe visual imagery, which cannot always capture the visual subtleties. My solution is to improve the art purchasing process by searching for art based on latent image features and computer vision and providing similar pieces of art at multiple price points."
 
 ![](./media/paintbynumbers.svg)
 
@@ -68,6 +68,8 @@ Sometimes you will have a great idea for a project, but the data simply does not
 
 One of the largest hurdles that we see Insight fellows struggle to climb over is thinking about projects that yield actionable insight. Do you empower your user to change their behavior or resolve their pain points? A good Insight project gives its users agency.
 
+---
+
 **Example**: "Subway times can vary wildly depending on the time of day and the line you take. My solution is to analyze subway delays and find the distribution over these delays."
 
 **Why was this project idea abandoned?**: This idea was actually a lot more popular before subway stations added signs indicating train arrivals. While analytically interesting, most subway riders cannot change the subway entrances they take or live by.
@@ -88,6 +90,7 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 **Why was this idea strong?**: This project identified a core user (people on the keto diet), their pain point (difficulty knowing what restaurants can accommodate their dietary restrictions), and offered them a solution that provided actionable insight (restaurants in the area with keto friendly menu items). It checked all the boxes. 
 
+---
 
 ## What pitfalls should I avoid when brainstorming project ideas?
 
@@ -107,7 +110,9 @@ When working with data, the technique and technology you use should align with w
 
 The goal of an Insight project is to showcase your creativity and thoughtfulness. Can you identify areas of need that are not already being covered? Replicating an existing product or a need that is already being served does not help showcase that ability to identify new areas of exploration.
 
-**Project Idea**: "My project is to determine which method of transportation will be more cost efficient for people living in the outer boroughs; train, bus, or car."
+---
+
+**Example**: "My project is to determine which method of transportation will be more cost efficient for people living in the outer boroughs; train, bus, or car."
 
 **Problem with this idea**: Google Maps. No solution would add meaningful improvement over checking Google Maps.
 
@@ -117,7 +122,6 @@ The goal of an Insight project is to showcase your creativity and thoughtfulness
 ### Identify the challenges that are unique to problems in your domain.
 
 As you develop your project, it is essential to understand and highlight the instances where your data does not conform to conventional norms. Companies are looking for data scientists that have an ability to grasp the nuances of data within their domain and apply that deep understanding to be creative in the ways that they model their data. Identifying why the problem you're tackling is more difficult than first meets the eye or bringing experience within a domain will demonstrate evidence of this ability.
-
 
 ### Level up your projects by injecting the skills and techniques you have developed as a scientist. 
 
@@ -141,8 +145,8 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDExMTE5MTEsODY4NDg0ODUyLDE3NT
-g3Mjc3ODcsLTM1NTQ3NzkzOSwtOTI0NTc4NTkwLC0xMjUxNjU0
-ODQ1LC0zOTg3NDM5ODMsMTc3NDY2NjY4MiwtMTYwODU2MTIwMS
-w4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZdfQ==
+eyJoaXN0b3J5IjpbLTUzNjgyNzYwOCw4Njg0ODQ4NTIsMTc1OD
+cyNzc4NywtMzU1NDc3OTM5LC05MjQ1Nzg1OTAsLTEyNTE2NTQ4
+NDUsLTM5ODc0Mzk4MywxNzc0NjY2NjgyLC0xNjA4NTYxMjAxLD
+gyMTk5OTM5NiwxOTA5NzE2NDU5LDM1Mzk1NTY0Nl19
 -->
