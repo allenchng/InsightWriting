@@ -132,15 +132,17 @@ Success at Insight is often correlated with your ability to be flexible. Not all
 
 ## How else can I prepare for projects?
 
-You're off to a great start by reading this short guide. If you want advice about projects straight from the mouths of Insight alumni, point your browser [here](). If you want to see descriptions of projects from previous Insight fellows, point your browser to [the platform](). Your program directors will also be scheduling a live webinar in which they'll talk again about their experiences developing their own projects, guiding fellows through project ideation, and answering questions.
+You're off to a great start by reading this short guide. If you want addit
+
+ If you want advice about projects straight from the mouths of Insight alumni, point your browser [here](). If you want to see descriptions of projects from previous Insight fellows, point your browser to [the platform](). Your program directors will also be scheduling a live webinar in which they'll talk again about their experiences developing their own projects, guiding fellows through project ideation, and answering questions.
 
 We recommend coming to Insight with at least 3-5 different project ideas. Remember that you should be able to those core questions about who your users are, what problem you're trying to solve, and how it improves upon an existing process or behavior.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjI1NzA2Myw0NjE4ODMxNDgsLTUzNj
-gyNzYwOCw4Njg0ODQ4NTIsMTc1ODcyNzc4NywtMzU1NDc3OTM5
-LC05MjQ1Nzg1OTAsLTEyNTE2NTQ4NDUsLTM5ODc0Mzk4MywxNz
-c0NjY2NjgyLC0xNjA4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2
-NDU5LDM1Mzk1NTY0Nl19
+eyJoaXN0b3J5IjpbMTY1NDM4MzQ4NSwtODI2MjU3MDYzLDQ2MT
+g4MzE0OCwtNTM2ODI3NjA4LDg2ODQ4NDg1MiwxNzU4NzI3Nzg3
+LC0zNTU0Nzc5MzksLTkyNDU3ODU5MCwtMTI1MTY1NDg0NSwtMz
+k4NzQzOTgzLDE3NzQ2NjY2ODIsLTE2MDg1NjEyMDEsODIxOTk5
+Mzk2LDE5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
 -->
