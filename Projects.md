@@ -40,6 +40,8 @@ Paint by Numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
 
 **Why was this idea strong?**: In the e-commerce world, consumers are often paralyzed by an overabundance of choice. This project helped simplify the purchasing process by allowing users to drop in or take a picture of their favorite of art and find similar pieces on Etsy and Artsy. Not only did it help solve a problem, but it provided options that were accessible to a wide range of individuals.
 
+---
+
 ### Can you find the right data to solve your problem?
 
 Once you've defined a project idea, start thinking about what data you would need to solve this problem. Importantly, does that data exist? Continue to refer back to how your user, company, or community of users utilize data in their current behavior. How is that data captured? How much of that data is available and what can you do with it?
@@ -135,8 +137,8 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM0NzA1NDYsMTc1ODcyNzc4NywtMz
-U1NDc3OTM5LC05MjQ1Nzg1OTAsLTEyNTE2NTQ4NDUsLTM5ODc0
-Mzk4MywxNzc0NjY2NjgyLC0xNjA4NTYxMjAxLDgyMTk5OTM5Ni
-wxOTA5NzE2NDU5LDM1Mzk1NTY0Nl19
+eyJoaXN0b3J5IjpbMTAyMDcwMTIyOSwxNzU4NzI3Nzg3LC0zNT
+U0Nzc5MzksLTkyNDU3ODU5MCwtMTI1MTY1NDg0NSwtMzk4NzQz
+OTgzLDE3NzQ2NjY2ODIsLTE2MDg1NjEyMDEsODIxOTk5Mzk2LD
+E5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
 -->
