@@ -132,7 +132,7 @@ Success at Insight is often correlated with your ability to be flexible. Not all
 
 ## How else can I prepare for projects?
 
-You're off to a great start by reading this short guide. If you want to see additional projects by Insight alumni, you can read these articles ([https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb](https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb)), [https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
+You're off to a great start by reading this short guide. If you want to see additional projects by Insight alumni, you can read these articles ([https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb](https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb)), [https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0), [https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
 
  If you want advice about projects straight from the mouths of Insight alumni, point your browser [here](). If you want to see descriptions of projects from previous Insight fellows, point your browser to [the platform]().
 
@@ -140,9 +140,10 @@ While we encourage you to start thinking about potential projects, we want to st
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTczNDE1MywtODI2MjU3MDYzLDQ2MT
-g4MzE0OCwtNTM2ODI3NjA4LDg2ODQ4NDg1MiwxNzU4NzI3Nzg3
-LC0zNTU0Nzc5MzksLTkyNDU3ODU5MCwtMTI1MTY1NDg0NSwtMz
-k4NzQzOTgzLDE3NzQ2NjY2ODIsLTE2MDg1NjEyMDEsODIxOTk5
-Mzk2LDE5MDk3MTY0NTksMzUzOTU1NjQ2XX0=
+eyJoaXN0b3J5IjpbMTE1OTI0MzcwMiwxMjc1NzM0MTUzLC04Mj
+YyNTcwNjMsNDYxODgzMTQ4LC01MzY4Mjc2MDgsODY4NDg0ODUy
+LDE3NTg3Mjc3ODcsLTM1NTQ3NzkzOSwtOTI0NTc4NTkwLC0xMj
+UxNjU0ODQ1LC0zOTg3NDM5ODMsMTc3NDY2NjY4MiwtMTYwODU2
+MTIwMSw4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZdfQ
+==
 -->
