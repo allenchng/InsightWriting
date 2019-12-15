@@ -96,7 +96,7 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 ### Starting with a data set
 
-One of the first impulses for many fellows is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by your problem and your user. It is then obvious to companies that you have not started with a top-down approach.
+One of the first impulses for many fellows is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started .
 
 ### Starting with a technique or technology
 
@@ -138,9 +138,9 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxODgzMTQ4LC01MzY4Mjc2MDgsODY4ND
-g0ODUyLDE3NTg3Mjc3ODcsLTM1NTQ3NzkzOSwtOTI0NTc4NTkw
-LC0xMjUxNjU0ODQ1LC0zOTg3NDM5ODMsMTc3NDY2NjY4MiwtMT
-YwODU2MTIwMSw4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2
-NDZdfQ==
+eyJoaXN0b3J5IjpbLTk3MjAzMDc3Nyw0NjE4ODMxNDgsLTUzNj
+gyNzYwOCw4Njg0ODQ4NTIsMTc1ODcyNzc4NywtMzU1NDc3OTM5
+LC05MjQ1Nzg1OTAsLTEyNTE2NTQ4NDUsLTM5ODc0Mzk4MywxNz
+c0NjY2NjgyLC0xNjA4NTYxMjAxLDgyMTk5OTM5NiwxOTA5NzE2
+NDU5LDM1Mzk1NTY0Nl19
 -->
