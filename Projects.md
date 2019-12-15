@@ -54,13 +54,13 @@ Sometimes you will have a great idea for a project, but the data simply does not
 
 **Why was this project idea abandoned?**: While this is clearly a problem that was relevant to businesses, this project was too ambitious in its scope. Retailers do not provide data on returns, and most shoes on e-commerce websites do not have many user reviews. This was also a problem that entire companies are devoted to solving, and it was extremely unlikely that this fellow would have been able to reach a satisfactory conclusion at the end of 4 weeks. 
 
-**Good example of a project idea**: "NYC Parks is tasked with managing over 600,000 street trees, but has the resources to inspect and maintain less than 50,000 trees per year. Currently, NYC relies on highly-biased citizen-submitted tree service requests to prioritize trees for maintenance, which results in over 10,000 tree branch falls per year and substantial cost to the City. I created a preventative tree maintenance prioritization tool for NYC Parks that uses an un-biased data driven approach. Prioritization is based on a tree's predicted branch fall probability."
+**Example**: "NYC Parks is tasked with managing over 600,000 street trees, but has the resources to inspect and maintain less than 50,000 trees per year. Currently, NYC relies on highly-biased citizen-submitted tree service requests to prioritize trees for maintenance, which results in over 10,000 tree branch falls per year and substantial cost to the City. I created a preventative tree maintenance prioritization tool for NYC Parks that uses an un-biased data driven approach. Prioritization is based on a tree's predicted branch fall probability."
 
 ![](./media/treefall_nyc.svg)
 
 [TreeFall NYC](https://platform.insightdata.com/projects/treefall-nyc) by [Brianne Hendrickson-Smith](https://www.linkedin.com/in/briannekhsmith/)
 
-**What made this project idea stand out?**: This project not only had a strong problem that served the public good, but it also demonstrated the ability to combine messy datasets from different sources. All of the data for this project was publicly available from NYC Open Data. Brianne's project involved combining multiple open datasets that spanned across 311 requests, individualized tree information, and geographical data. 
+**What was this idea strong?**: This project not only had a strong problem that served the public good, but it also demonstrated the ability to combine messy datasets from different sources. All of the data for this project was publicly available from NYC Open Data. Brianne's project involved combining multiple open datasets that spanned across 311 requests, individualized tree information, and geographical data. 
 
 ---
 
@@ -68,11 +68,11 @@ Sometimes you will have a great idea for a project, but the data simply does not
 
 One of the largest hurdles that we see Insight fellows struggle to climb over is thinking about projects that yield actionable insight. Do you empower your user to change their behavior or resolve their pain points? A good Insight project gives its users agency.
 
-**Poor example of a project idea**: "Subway times can vary wildly depending on the time of day and the line you take. My solution is to analyze subway delays and find the distribution over these delays."
+**Example**: "Subway times can vary wildly depending on the time of day and the line you take. My solution is to analyze subway delays and find the distribution over these delays."
 
 **Why was this project idea abandoned?**: This idea was actually a lot more popular before subway stations added signs indicating train arrivals. While analytically interesting, most subway riders cannot change the subway entrances they take or live by.
 
-**Good example of a project idea**: "Reading the news these days can be depressing. There are barrage of articles detailing all of the problems that exist in the world which often leaves readers feeling overwhelmed and asking themselves how can I help. However, right now there doesn't exist as an easy path for them to convert their motivation to help into an actionable solution. I created Giver, an NLP powered chrome extension that interfaces with news websites to suggest charities related to the content of the news article you are reading."
+**Example**: "Reading the news these days can be depressing. There are barrage of articles detailing all of the problems that exist in the world which often leaves readers feeling overwhelmed and asking themselves how can I help. However, right now there doesn't exist as an easy path for them to convert their motivation to help into an actionable solution. I created Giver, an NLP powered chrome extension that interfaces with news websites to suggest charities related to the content of the news article you are reading."
 
 ![](./media/giver.gif)
 
@@ -80,7 +80,7 @@ One of the largest hurdles that we see Insight fellows struggle to climb over is
 
 **Why was this idea strong?**: This project was a great example of how a fellow can build something for social good. It hones in on a problem that affects many people and importantly, presents the user with actions. The user is then empowered with choices.
 
-**Good example of a project idea**: "Staying on a diet is tough. Only 20% of dieters stay on a regime after one month of starting. For folks in the ketogenic diet the problem is heightened by lack of options when choosing to eat out. A combination of a stringent regime and lack of readily available nutritional information on most restaurants spell disaster for the aspiring dieter. I developed an app, using menu information from local restaurants and nutritional information form mayor chain restaurants to locate meal options for ketogenic dieters at the click of a button."
+**Example**: "Staying on a diet is tough. Only 20% of dieters stay on a regime after one month of starting. For folks in the ketogenic diet the problem is heightened by lack of options when choosing to eat out. A combination of a stringent regime and lack of readily available nutritional information on most restaurants spell disaster for the aspiring dieter. I developed an app, using menu information from local restaurants and nutritional information form mayor chain restaurants to locate meal options for ketogenic dieters at the click of a button."
 
 ![](./media/goketo.svg)
 
@@ -141,7 +141,7 @@ We recommend coming to Insight with at least 3-5 different project ideas. Rememb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMyODMwMTIsODY4NDg0ODUyLDE3NT
+eyJoaXN0b3J5IjpbLTEwMDExMTE5MTEsODY4NDg0ODUyLDE3NT
 g3Mjc3ODcsLTM1NTQ3NzkzOSwtOTI0NTc4NTkwLC0xMjUxNjU0
 ODQ1LC0zOTg3NDM5ODMsMTc3NDY2NjY4MiwtMTYwODU2MTIwMS
 w4MjE5OTkzOTYsMTkwOTcxNjQ1OSwzNTM5NTU2NDZdfQ==
