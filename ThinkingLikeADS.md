@@ -248,16 +248,6 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 ### Prepare to be flexible
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
-
-## How else can I prepare for projects?
-
-You're off to a great start by reading this short guide. If you want to see additional projects by Insight alumni, you can read these articles ([https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb](https://blog.insightdatascience.com/example-ml-projects-in-data-science-data-engineering-and-artificial-intelligence-e3cc367956fb)), [https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0), [https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
-
- If you want advice about projects straight from the mouths of Insight alumni, point your browser [here](). If you want to see descriptions of projects from previous Insight fellows, point your browser to [the platform]().
-
-While we encourage you to start thinking about potential projects, we want to stress that **you do not need to have a project selected on Day 1**. In fact, there will be lots of brainstorming and group discussions in the first week of the program to help you craft a viable and exciting project, so it's important to arrive at Insight with an open mind. Remember that you should be able to those core questions about who your users are, what problem you're trying to solve, and how it improves upon an existing process or behavior.
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQyNDE1NzVdfQ==
+eyJoaXN0b3J5IjpbMTE2NDgxNzY3LC0xNzA0MjQxNTc1XX0=
 -->
