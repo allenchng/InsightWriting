@@ -5,7 +5,7 @@ At Insight, we help high achieving scientists transition from academia to indust
 
 ## Focus on product and the business impact
 
-Data scientists derive value from the ability to take amorphous problems and turn them into actionable insight that "closes the loop". It's important to understand how your analysis helps move a product forward, or how your analysis circles back to the business of a company. Do you solve real problems your users are having and can you explain why? Starting with a problem and a user-base anchors your analyses and helps motivate the subsequent choices you make.
+Data scientists derive value from the ability to take amorphous problems and turn them into actionable insight that "closes the loop". It's important to understand how your work helps move a product forward, or how it enables the business of a company to grow. Do you solve real problems your users are having and can you explain why? Starting with a problem and a user-base anchors your analyses and helps motivate the subsequent choices you make.
 
 For example, if you were a data scientist at a company that was considering whether or not to add a feature to a product, you might use the following questions to drive your analysis.
 
@@ -249,5 +249,6 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDgxNzY3LC0xNzA0MjQxNTc1XX0=
+eyJoaXN0b3J5IjpbMTUzODk1NzUzLDExNjQ4MTc2NywtMTcwND
+I0MTU3NV19
 -->
