@@ -14,7 +14,7 @@ For example, if you were a data scientist at a company that was considering whet
 3) What would a quick solution to these users problems look like?
 4) What is the potential benefit for the company?
 
-- **Example**: "Finding art for your home is a difficult and time consuming process. Searching for art online is especially difficult because online retailers use keywords to describe visual imagery. The customer experience would be improved if users could provide an example of paintings that they liked and were shown other paintings that matched the visual subtleties of the examples provided.
+- **Example**: "Finding art for your home can be a difficult and time consuming process. Searching for art online is especially challenging because online retailers use keywords to describe visual imagery. The customer experience would be improved if users could provide an example of paintings that they liked and were shown other paintings that matched the visual subtleties of the examples provided.
 
 ![](./media/paintbynumbers.svg)
 
@@ -250,6 +250,6 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNDI0OTg1LDExNjQ4MTc2NywtMTcwND
-I0MTU3NV19
+eyJoaXN0b3J5IjpbLTE2OTI3MDkzMjYsMTE2NDgxNzY3LC0xNz
+A0MjQxNTc1XX0=
 -->
