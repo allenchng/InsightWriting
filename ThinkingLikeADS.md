@@ -48,11 +48,15 @@ Whether your work is focused on product users or stakeholders within your compan
 
 **Commentary**: This project identified a group of users with limited choice and restricted behaviors. The final product utilized Grubhub menu information from local restaurants and nutritional information from major chain restaurants to locate meal options for ketogenic dieters based on their current location. The fellow was able to not only able to viable restaurants for dieters, but also which menu items were most keto-friendly. In doing so, this project provided dieters with a range of choices that suited their dietary lifestyles.
 
+
+
+
+
+
+
 ## Build something that works, then iterate
 
 Data scientists in industry are often required to move quickly and meet deadlines. That means building a prototype and then iterating on it to provide improvements. One of the fastest ways to learn is through failure, and no idea is ever perfect from the start. Start with a simple solution, and then layer in the complexity. The answer to what you should do next is often not to spend more time hypertuning your model, it's to think about what additional features you would add to a product.
-
-
 
 ---
 
@@ -250,6 +254,6 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzMyMjk5LDY2NjIzMzc0MiwtMTY5Mj
+eyJoaXN0b3J5IjpbMjYyNzEwNTg3LDY2NjIzMzc0MiwtMTY5Mj
 k4NDA5MCwxMTY0ODE3NjcsLTE3MDQyNDE1NzVdfQ==
 -->
