@@ -5,7 +5,7 @@ At Insight, we help high achieving scientists transition from academia to indust
 
 ## Focus on product and the business impact
 
-Data scientists derive value from the ability to take amorphous problems and turn them into actionable insight that "closes the loop". It's important to understand how your work helps move a product forward, or how it enables the business of a company to grow. Focusing on the real problems your users have anchors your project and helps motivate the subsequent choices you make.
+It's important to understand how your work helps move a product forward, or how it enables the business of a company to grow. Focusing on the real problems your users have anchors your project and helps motivate the subsequent choices you make.
 
 For example, if you were a data scientist at a company that was considering whether or not to add a feature to a product, you might use the following questions to drive your analysis.
 
@@ -38,7 +38,7 @@ Sometimes the data you need doesn't exist. In cases like this, you may have to g
 
 ## Give your users actionable insight
 
-Whether your work is focused on product users or stakeholders within your company, it is important to empower your user to do something with your results. This means understanding who the target of your modeling is focused on and making conscious choices along the way with that specific user in mind. Does the result of your work allow your user to be able to actively modify their behavior in response to what you show them?
+Data scientists derive value from the ability to take amorphous problems and turn them into actionable insight that "closes the loop". Whoever your stakeholder is, you want to be able to empower your user to do something with your results. This means understanding who the target of your modeling is focused on and making conscious choices along the way with that specific user in mind. Does the result of your work allow your user to be able to actively modify their behavior in response to what you show them?
 
 **Example**: "Staying on a diet is tough and it's estimated that only 20% of dieters stay on a regime after one month. For people on the ketogenic diet, this problem is further exacerbated by a difficulty in finding suitable keto-friendly options when choosing to eat out. The combination of a stringent dieting regime and lack of readily available nutritional information on most restaurants can spell disaster for the aspiring dieter."
 
@@ -254,6 +254,7 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNzEwNTg3LDY2NjIzMzc0MiwtMTY5Mj
-k4NDA5MCwxMTY0ODE3NjcsLTE3MDQyNDE1NzVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjI1NDUwNjksMjYyNzEwNTg3LDY2Nj
+IzMzc0MiwtMTY5Mjk4NDA5MCwxMTY0ODE3NjcsLTE3MDQyNDE1
+NzVdfQ==
 -->
