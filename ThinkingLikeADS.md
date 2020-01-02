@@ -34,8 +34,7 @@ Sometimes the data you need doesn't exist. In cases like this, you may have to g
 
 [TreeFall NYC](https://platform.insightdata.com/projects/treefall-nyc) by [Brianne Hendrickson-Smith](https://www.linkedin.com/in/briannekhsmith/)
 
-- **Commentary**: This project focused on identifying which trees in New York City were most likely to have a tree branch fall by using data from 311 requests, the New York street tree census, and land cover databases.  
-
+- **Commentary**: This project focused on identifying which trees in New York City were most likely to have a tree branch fall. The final solution integrated data from 311 citizen requests, the New York street tree census, and land cover databases. 
 
 This project involved combining multiple New York City open datasets that contained information on 311 requests, specialized tree information, and geographical data. One of the strengths of this project was that it required the combination of multiple datasets from data sources. The end product was a preventative tree maintenance tool for NYC Parks that prioritized trees based on predicted branch fall probability.
 
@@ -253,6 +252,6 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMzU3MDg1LDY2NjIzMzc0MiwtMTY5Mj
-k4NDA5MCwxMTY0ODE3NjcsLTE3MDQyNDE1NzVdfQ==
+eyJoaXN0b3J5IjpbMTUzMjY2NTY0Myw2NjYyMzM3NDIsLTE2OT
+I5ODQwOTAsMTE2NDgxNzY3LC0xNzA0MjQxNTc1XX0=
 -->
