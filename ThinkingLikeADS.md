@@ -26,7 +26,7 @@ Paint by Numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
 
 Once you have a problem defined, it's important to consider what data you need. These days, companies have almost *too much* data, forcing data scientists to consider which sources of data are most relevant for their problem. One way to do this is to continue to refer back to how your user, company, or community of users interact with the product or business. How is that data captured? How much of that data is available and what can you do with it?
 
-Sometimes the data you need doesn't exist. In cases like this, you may have to get creative to find a solution. You might have to combine differentdatasets to serve as a proxy for what you want to measure?
+Sometimes the data you need doesn't exist. In cases like this, you may have to get creative to find a solution. You might have to combine different datasets to serve as a proxy for what you want to measure.
 
 - **Example**: "NYC Parks is tasked with managing over 600,000 street trees, but has the resources to inspect and maintain less than 50,000 trees per year. Currently, NYC relies on highly-biased citizen-submitted tree service requests to prioritize trees for maintenance, which results in over 10,000 tree branch falls per year and substantial cost to the City. Resources could be more efficiently allocated if there was a way to prioritize which trees were highest priority for maintenance."
 
@@ -34,7 +34,7 @@ Sometimes the data you need doesn't exist. In cases like this, you may have to g
 
 [TreeFall NYC](https://platform.insightdata.com/projects/treefall-nyc) by [Brianne Hendrickson-Smith](https://www.linkedin.com/in/briannekhsmith/)
 
-- **Commentary**: This project involved combining multiple New York City open datasets that contained information on 311 requests, specialized tree information, and geographical data. One of the strengths of this project was that it required the combination of multiple datasets from data sources. The end product was a preventative tree maintenance tool for NYC Parks that prioritized trees based on predicted branch fall probability.
+- **Commentary**: This project focused on identifying which trees in New York City were most likely to have a tree branch fall by using data from 311 requests, the New York street tree census, This project involved combining multiple New York City open datasets that contained information on 311 requests, specialized tree information, and geographical data. One of the strengths of this project was that it required the combination of multiple datasets from data sources. The end product was a preventative tree maintenance tool for NYC Parks that prioritized trees based on predicted branch fall probability.
 
 ## Give your users actionable insight
 
@@ -250,6 +250,6 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NDk5MDQ2LC0xNjkyOTg0MDkwLDExNj
+eyJoaXN0b3J5IjpbOTE5NjIxOTc0LC0xNjkyOTg0MDkwLDExNj
 Q4MTc2NywtMTcwNDI0MTU3NV19
 -->
