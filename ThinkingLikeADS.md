@@ -5,14 +5,14 @@ At Insight, we help high achieving scientists transition from academia to indust
 
 ## Focus on product and the business impact
 
-It's important to understand how your work helps move a product forward, or how it enables the business of a company to grow. Focusing on the real problems your users have anchors your project and helps motivate the subsequent choices you make.
-
-For example, if you were a data scientist at a company that was considering whether or not to add a feature to a product, you might use the following questions to drive your analysis.
+Pretend for a moment you are a data scientist at a company that is considering whether or not to add a feature to a product, you might use the following questions to drive your analysis.
 
 1) How are people currently interacting with that product? 
 2) What does that product currently lack that causes a pain point for users?
 3) What would a quick solution to these users problems look like?
 4) What is the potential benefit for the company?
+
+It's important to understand how your work helps move a product forward, or how it enables the business of a company to grow. Focusing on the real problems your users have anchors your project and helps motivate the subsequent choices you make.
 
 - **Example**: "Finding art for your home can be a difficult and time consuming process. Purchasing art online is especially challenging because online retailers use keywords to describe visual imagery. Potential art enthusiasts are challenged with accurately describing art in search bars. The customer experience, and sales, for companies like Etsy or Artsy would be improved if users could provide an example of paintings that they liked and were shown other paintings that matched the visual subtleties of the examples provided.
 
@@ -254,7 +254,7 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI1NDUwNjksMjYyNzEwNTg3LDY2Nj
-IzMzc0MiwtMTY5Mjk4NDA5MCwxMTY0ODE3NjcsLTE3MDQyNDE1
-NzVdfQ==
+eyJoaXN0b3J5IjpbMjA1MzU5MDA3NSwyNjI3MTA1ODcsNjY2Mj
+MzNzQyLC0xNjkyOTg0MDkwLDExNjQ4MTc2NywtMTcwNDI0MTU3
+NV19
 -->
