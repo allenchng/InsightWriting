@@ -3,6 +3,28 @@
 
 At Insight, we help high achieving scientists transition from academia to industry. In this short article, I will highlight how to think more like a data scientist in industry and how previous fellows at Insight have demonstrated this ability to get jobs at leading companies.
 
+
+# First, how to not think like a DS
+---
+
+## Avoid fixating on a technique or technology
+
+When working with data, the technique and technology you use should align with what best suits the problem. Have you ever heard someone say, "Here's some data. I don't care what you do, but can you make sure you use word2vec and Spark?" 
+
+Yeah, I didn't think so either.
+
+
+
+### Replicating something a company already does
+
+The goal of an Insight project is to showcase your creativity and thoughtfulness. Can you identify areas of need that are not already being covered? Replicating an existing product or a need that is already being served does not help showcase that ability to identify new areas of exploration.
+
+### Starting with a data set
+
+One of the first impulses for many people is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
+
+---
+
 ## Focus on product and the business impact
 
 Pretend for a moment you are a data scientist at a company that is considering whether or not to add a feature to a product. To help make your decision, you might use the following questions to drive your analysis.
@@ -254,7 +276,7 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDM5MTkxMSwyNjI3MTA1ODcsNjY2Mj
+eyJoaXN0b3J5IjpbMTM1ODg1MTA2NywyNjI3MTA1ODcsNjY2Mj
 MzNzQyLC0xNjkyOTg0MDkwLDExNjQ4MTc2NywtMTcwNDI0MTU3
 NV19
 -->
