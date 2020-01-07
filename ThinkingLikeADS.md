@@ -54,9 +54,11 @@ Data scientists derive value from the ability to take amorphous problems and tur
 
 Data scientists in industry are often required to move quickly and meet deadlines. That means building a prototype and then iterating on it to provide improvements. One of the fastest ways to learn is through failure, and no idea is ever perfect from the start. Start with a simple solution, and then layer in the complexity. The answer to what you should do next is often not to spend more time hypertuning your model, it's to think about what additional features you would add to a product.
 
-## Avoid fixating on a technique or technology
+## Avoid these common pitfalls
 
-When working with data, the technique and technology you use should align with what best suits the problem. Have you ever heard someone say, "Here's some data. I don't care what you do, but can you make sure you use word2vec and Spark?" 
+### Fixating on a technique or technology
+
+When working with data, the tools and techniques you use should align with what best suits the problem. Have you ever heard someone say, "Here's some data. I don't care what you do, but can you make sure you use word2vec and Spark?" 
 
 Yeah, I didn't think so either.
 
@@ -89,8 +91,8 @@ The goal of an Insight project is to showcase your creativity and thoughtfulness
 
 One of the first impulses for many people is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI2OTQ4MTMsLTQ3MzkyNzI4NCwxNz
-Q0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2NywyNjI3MTA1
-ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNjQ4MTc2NywtMT
-cwNDI0MTU3NV19
+eyJoaXN0b3J5IjpbLTU1NTA1MTgwOSwtNDczOTI3Mjg0LDE3ND
+Q1MDYyMDAsLTM1OTU2MzY3MywxMzU4ODUxMDY3LDI2MjcxMDU4
+Nyw2NjYyMzM3NDIsLTE2OTI5ODQwOTAsMTE2NDgxNzY3LC0xNz
+A0MjQxNTc1XX0=
 -->
