@@ -50,14 +50,26 @@ Data scientists derive value from the ability to take amorphous problems and tur
 **Commentary**: This project identified a group of users with limited choice and restricted behaviors. The final product utilized Grubhub menu information from local restaurants and nutritional information from major chain restaurants to locate meal options for ketogenic dieters based on their current location. The fellow was able to not only able to viable restaurants for dieters, but also which menu items were most keto-friendly. In doing so, this project provided dieters with a range of choices that suited their dietary lifestyles.
 
 
-
-
-
-
-
 ## Build something that works, then iterate
 
 Data scientists in industry are often required to move quickly and meet deadlines. That means building a prototype and then iterating on it to provide improvements. One of the fastest ways to learn is through failure, and no idea is ever perfect from the start. Start with a simple solution, and then layer in the complexity. The answer to what you should do next is often not to spend more time hypertuning your model, it's to think about what additional features you would add to a product.
+
+## Avoid fixating on a technique or technology
+
+When working with data, the technique and technology you use should align with what best suits the problem. Have you ever heard someone say, "Here's some data. I don't care what you do, but can you make sure you use word2vec and Spark?" 
+
+Yeah, I didn't think so either.
+
+### Replicating something a company already does
+
+The goal of an Insight project is to showcase your creativity and thoughtfulness. Can you identify areas of need that are not already being covered? Replicating an existing product or a need that is already being served does not help showcase that ability to identify new areas of exploration.
+
+### Starting with a data set
+
+One of the first impulses for many people is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
+
+---
+
 
 ---
 
@@ -255,7 +267,7 @@ Don't expect your ideas to be perfect from the start. Many fellows see projects 
 
 Success at Insight is often correlated with your ability to be flexible. Not all of your ideas are going to work, and you're going to get lots of feedback along the way from program directors, technical advisors, your fellow fellows, and alumni. How you adapt and incorporate advice will set the tone for your success in the program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzU5NzA3MywtMzU5NTYzNjczLDEzNT
+eyJoaXN0b3J5IjpbMTc0NDUwNjIwMCwtMzU5NTYzNjczLDEzNT
 g4NTEwNjcsMjYyNzEwNTg3LDY2NjIzMzc0MiwtMTY5Mjk4NDA5
 MCwxMTY0ODE3NjcsLTE3MDQyNDE1NzVdfQ==
 -->
