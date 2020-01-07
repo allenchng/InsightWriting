@@ -89,9 +89,9 @@ The goal of an Insight project is to showcase your creativity and thoughtfulness
 
 ### Starting with a data set
 
-One of the first impulses for many people is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
+One of the first impulses for many people is to find something "interesting" or "cool" about data. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTA1MTgwOSwtNDczOTI3Mjg0LDE3ND
+eyJoaXN0b3J5IjpbMTIxODk5NzM0MSwtNDczOTI3Mjg0LDE3ND
 Q1MDYyMDAsLTM1OTU2MzY3MywxMzU4ODUxMDY3LDI2MjcxMDU4
 Nyw2NjYyMzM3NDIsLTE2OTI5ODQwOTAsMTE2NDgxNzY3LC0xNz
 A0MjQxNTc1XX0=
