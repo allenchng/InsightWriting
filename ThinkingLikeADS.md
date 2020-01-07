@@ -62,7 +62,7 @@ Yeah, I didn't think so either.
 
 ### Replicating something a company already does
 
-The goal of an Insight project is to showcase your creativity and thoughtfulness. What users will switch to your product that's a cl Can you identify areas of need that are not already being covered? Replicating an existing product or a need that is already being served does not help showcase that ability to identify new areas of exploration.
+Replicating an existing product or a need that is already being served does not help showcase an ability to identify new areas of exploration. Ask yourself, can you identify areas of need that are not already being covered? Users will only engage with your product if its better than what currently exists.
 
 ### Starting with a data set
 
@@ -89,8 +89,8 @@ The goal of an Insight project is to showcase your creativity and thoughtfulness
 
 One of the first impulses for many people is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxOTA3NjQ2LC00NzM5MjcyODQsMTc0ND
-UwNjIwMCwtMzU5NTYzNjczLDEzNTg4NTEwNjcsMjYyNzEwNTg3
-LDY2NjIzMzc0MiwtMTY5Mjk4NDA5MCwxMTY0ODE3NjcsLTE3MD
-QyNDE1NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDI2OTQ4MTMsLTQ3MzkyNzI4NCwxNz
+Q0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2NywyNjI3MTA1
+ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNjQ4MTc2NywtMT
+cwNDI0MTU3NV19
 -->
