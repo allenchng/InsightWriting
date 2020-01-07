@@ -35,7 +35,7 @@ Sometimes the data you need doesn't exist. In cases like this, you may have to g
 
 [TreeFall NYC](https://platform.insightdata.com/projects/treefall-nyc) by [Brianne Hendrickson-Smith](https://www.linkedin.com/in/briannekhsmith/)
 
-- **Commentary**: New York City often has to be reactive to customer complaints, deploying public services after an event has happened. This project focused on helping the NYC Parks department get ahead of identifying which trees in New York City were most likely to have a tree branch fall. The final solution integrated data from 311 citizen requests, the New York street tree census, and land cover databases. These three sources of data provided additional signal on which trees had the highest probabilities to have a large branch fall and in. 
+- **Commentary**: New York City often has to be reactive to customer complaints, deploying public services after an event has happened. This project was focused on helping the NYC Parks department be proactive about identifying which trees in New York City were most likely to have a tree branch fall. The final solution integrated data from 311 citizen requests, the New York street tree census, and land cover databases. These three sources were al
 
 ## Give your users actionable insight
 
@@ -70,8 +70,8 @@ Replicating an existing product or a need that is already being served does not 
 
 One of the first impulses for many people is to dig into a dataset to find something "interesting" or to a model with the highest accuracy possible. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5Nzc0MTA0LC00NzM5MjcyODQsMTc0ND
-UwNjIwMCwtMzU5NTYzNjczLDEzNTg4NTEwNjcsMjYyNzEwNTg3
-LDY2NjIzMzc0MiwtMTY5Mjk4NDA5MCwxMTY0ODE3NjcsLTE3MD
-QyNDE1NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzNTUxMzk3OTMsLTQ3MzkyNzI4NCwxNz
+Q0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2NywyNjI3MTA1
+ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNjQ4MTc2NywtMT
+cwNDI0MTU3NV19
 -->
