@@ -64,16 +64,14 @@ Yeah, I didn't think so either.
 
 ### Replicating something a company already does
 
-Replicating an existing product or a need that is already being served does not help showcase an ability to identify new areas of exploration. Ask yourself, can you identify areas of need that are not already being covered? Users will only engage with your product if its better than what currently exists. Have a vision  that will solve an unexplored problem.
+Replicating an existing product or a need that is already being served does not help showcase an ability to identify new areas of exploration. Ask yourself, can you identify areas of need that are not already being covered? Users will only engage with your product if its better than what currently exists. Have a product vision  that will solve an unexplored problem.
 
 ### Starting with a data set
 
-One of the first impulses for many people is to dig into a dataset to find something "interesting" or to . The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
-
----
+One of the first impulses for many people is to dig into a dataset to find something "interesting" or to a model with the highest accuracy possible. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjkwODY1MCwtNDczOTI3Mjg0LDE3ND
-Q1MDYyMDAsLTM1OTU2MzY3MywxMzU4ODUxMDY3LDI2MjcxMDU4
-Nyw2NjYyMzM3NDIsLTE2OTI5ODQwOTAsMTE2NDgxNzY3LC0xNz
-A0MjQxNTc1XX0=
+eyJoaXN0b3J5IjpbLTEyODI0MzY1OTUsLTQ3MzkyNzI4NCwxNz
+Q0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2NywyNjI3MTA1
+ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNjQ4MTc2NywtMT
+cwNDI0MTU3NV19
 -->
