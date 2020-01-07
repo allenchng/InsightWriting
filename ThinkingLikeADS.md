@@ -68,31 +68,12 @@ Replicating an existing product or a need that is already being served does not 
 
 ### Starting with a data set
 
-One of the first impulses for many people is to find a dataset online and then try to shoehorn that dataset into a problem. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
+One of the first impulses for many people is to dig into a dataset to find something "interesting" or to . The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
 
 ---
-
-
----
-
-# SCRATCH WORK
-
-## Avoid fixating on a technique or technology
-
-When working with data, the technique and technology you use should align with what best suits the problem. Have you ever heard someone say, "Here's some data. I don't care what you do, but can you make sure you use word2vec and Spark?" 
-
-Yeah, I didn't think so either.
-
-### Replicating something a company already does
-
-The goal of an Insight project is to showcase your creativity and thoughtfulness. Can you identify areas of need that are not already being covered? Replicating an existing product or a need that is already being served does not help showcase that ability to identify new areas of exploration.
-
-### Starting with a data set
-
-One of the first impulses for many people is to find something "interesting" or "cool" about data. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to companies that you have not started by thinking about the business or the issue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODk5NzM0MSwtNDczOTI3Mjg0LDE3ND
-Q1MDYyMDAsLTM1OTU2MzY3MywxMzU4ODUxMDY3LDI2MjcxMDU4
-Nyw2NjYyMzM3NDIsLTE2OTI5ODQwOTAsMTE2NDgxNzY3LC0xNz
-A0MjQxNTc1XX0=
+eyJoaXN0b3J5IjpbOTk3ODkyMzE3LC00NzM5MjcyODQsMTc0ND
+UwNjIwMCwtMzU5NTYzNjczLDEzNTg4NTEwNjcsMjYyNzEwNTg3
+LDY2NjIzMzc0MiwtMTY5Mjk4NDA5MCwxMTY0ODE3NjcsLTE3MD
+QyNDE1NzVdfQ==
 -->
