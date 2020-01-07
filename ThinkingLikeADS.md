@@ -52,7 +52,7 @@ Data scientists derive value from the ability to take amorphous problems and tur
 
 ## Build something that works, then iterate
 
-Data scientists in industry are often required to move quickly and meet deadlines. That means building a prototype and then iterating on it to provide improvements. One of the fastest ways to learn is through failure, and no idea is ever perfect from the start. Start with a simple solution, and then layer in the complexity. The answer to what you should do next is often not to spend more time hypertuning your model, it's to think about what additional features you would add to a product.
+Data scientists in industry are often required to move quickly and meet deadlines. That means building a prototype and then iterating on it to provide improvements. One of the fastest ways to learn is through failure, and no idea is ever perfect from the start. Start with a simple solution, and then layer in the complexity.
 
 ## Avoid these common pitfalls
 
@@ -70,8 +70,8 @@ Replicating an existing product or a need that is already being served does not 
 
 One of the first impulses for many people is to dig into a dataset to find something "interesting" or to a model with the highest accuracy possible. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU1NjgwODYsLTQ3MzkyNzI4NCwxNz
-Q0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2NywyNjI3MTA1
-ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNjQ4MTc2NywtMT
-cwNDI0MTU3NV19
+eyJoaXN0b3J5IjpbMjExNTI2NDgyLC00NzM5MjcyODQsMTc0ND
+UwNjIwMCwtMzU5NTYzNjczLDEzNTg4NTEwNjcsMjYyNzEwNTg3
+LDY2NjIzMzc0MiwtMTY5Mjk4NDA5MCwxMTY0ODE3NjcsLTE3MD
+QyNDE1NzVdfQ==
 -->
