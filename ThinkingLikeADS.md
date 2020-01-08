@@ -19,7 +19,7 @@ It's important to understand how your work helps move a product forward, or how 
 
 ![](./media/paintbynumbers.svg)
 
-![test](https://photos.google.com/photo/AF1QipNhMksx_5YaGEwkgcxJwUH9qUuSTAIddhqBEXeG)
+![](https://lh3.googleusercontent.com/jNcy3dKKlNbALPDXqrmTZgjF4hecNw4zmJzYM5RGQ1hll_2J1UMlqLBSnR4E06kbksWYWdeEUY7_NAEDRLfQywxCUv2gElJ5Od76Q0my2eewGSpNDpMX2aOKkDWbmnFXVo5MFTukajr5YU_d803zpMVxURjANZREDqNSR5kw4khS4ChYz2sTAtEnxD26-66n407e1XnGmVkLy-etuexq0t3KRT6bfF9bK_VL-CtCgu9oIGWosVDiSXGmo8ZLyCoXCLIsslwkc4rt2KxO6J0y9gXFSpwnuWoyTT5UozRvgpXH4OayQrmzU3SV3c2msJGkFMxzaVKgAwE5XWyMBuZSQ_J6yfWZzCYylmdtc0uGNhyCJWPSkPyAaSInIoTHt53x7BZUnQHCYuXXBMPBwXZjE72zhmjdnoAQfoFABGtwEUJ8OOcaDjBZ_QQA3ycdltbliMiB6BL0SsqcVh3depmr-4b7gH1hk4Z2OczQB8to1Ucppb6qsT3bNIxbADV5ghTS-qQKOj8GfGakjjfoDp4i95pWsAjCMFmgZgp28CAcniGyr1e8VfuhoYCahEhfaeCpDiWVG18awJl4Qg3lh2-FTbppcbrY0rRc3IoqiZl8oHRIrWq3BbqTlxoWexyZs-r2L56wopmskMbva6MVuCkAD8A1D7dEDtXgRRJQ2IpDcZ85TYrHTkxuVZI=w1280-h720-no)
 
 Paint by Numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
 
@@ -71,8 +71,9 @@ Replicating an existing product or a need that is already being served does not 
 ### Starting with a data set
 
 One of the first impulses for many people is to dig into a dataset to find something "interesting" or to a model with the highest accuracy possible. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODA2OTU5MiwyMTE1MjY0ODIsLTQ3Mz
+eyJoaXN0b3J5IjpbLTk4MjY1NzU4NSwyMTE1MjY0ODIsLTQ3Mz
 kyNzI4NCwxNzQ0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2
 NywyNjI3MTA1ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNj
 Q4MTc2NywtMTcwNDI0MTU3NV19
