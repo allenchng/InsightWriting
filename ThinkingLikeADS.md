@@ -19,6 +19,8 @@ It's important to understand how your work helps move a product forward, or how 
 
 ![](./media/paintbynumbers.svg)
 
+![test](https://photos.google.com/photo/AF1QipNhMksx_5YaGEwkgcxJwUH9qUuSTAIddhqBEXeG)
+
 Paint by Numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
 
 - **Commentary**: In the e-commerce world, consumers are often paralyzed by an overabundance of choice. A simple search for art on Etsy can yield hundreds of thousands of results. This project helped simplify the purchasing process by allowing users to drop in or take a picture of their favorite pieces of art and by using computer vision to identify latent image features that matched art on the Etsy and Artsy marketplaces. Users were then provided recommendations of similar pieces of art at multiple price points, so that they could select the right piece for their budget.
@@ -70,8 +72,8 @@ Replicating an existing product or a need that is already being served does not 
 
 One of the first impulses for many people is to dig into a dataset to find something "interesting" or to a model with the highest accuracy possible. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTI2NDgyLC00NzM5MjcyODQsMTc0ND
-UwNjIwMCwtMzU5NTYzNjczLDEzNTg4NTEwNjcsMjYyNzEwNTg3
-LDY2NjIzMzc0MiwtMTY5Mjk4NDA5MCwxMTY0ODE3NjcsLTE3MD
-QyNDE1NzVdfQ==
+eyJoaXN0b3J5IjpbMTkxODA2OTU5MiwyMTE1MjY0ODIsLTQ3Mz
+kyNzI4NCwxNzQ0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2
+NywyNjI3MTA1ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNj
+Q4MTc2NywtMTcwNDI0MTU3NV19
 -->
