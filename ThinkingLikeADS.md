@@ -21,6 +21,8 @@ It's important to understand how your work helps move a product forward, or how 
 
 ![](https://lh3.googleusercontent.com/jNcy3dKKlNbALPDXqrmTZgjF4hecNw4zmJzYM5RGQ1hll_2J1UMlqLBSnR4E06kbksWYWdeEUY7_NAEDRLfQywxCUv2gElJ5Od76Q0my2eewGSpNDpMX2aOKkDWbmnFXVo5MFTukajr5YU_d803zpMVxURjANZREDqNSR5kw4khS4ChYz2sTAtEnxD26-66n407e1XnGmVkLy-etuexq0t3KRT6bfF9bK_VL-CtCgu9oIGWosVDiSXGmo8ZLyCoXCLIsslwkc4rt2KxO6J0y9gXFSpwnuWoyTT5UozRvgpXH4OayQrmzU3SV3c2msJGkFMxzaVKgAwE5XWyMBuZSQ_J6yfWZzCYylmdtc0uGNhyCJWPSkPyAaSInIoTHt53x7BZUnQHCYuXXBMPBwXZjE72zhmjdnoAQfoFABGtwEUJ8OOcaDjBZ_QQA3ycdltbliMiB6BL0SsqcVh3depmr-4b7gH1hk4Z2OczQB8to1Ucppb6qsT3bNIxbADV5ghTS-qQKOj8GfGakjjfoDp4i95pWsAjCMFmgZgp28CAcniGyr1e8VfuhoYCahEhfaeCpDiWVG18awJl4Qg3lh2-FTbppcbrY0rRc3IoqiZl8oHRIrWq3BbqTlxoWexyZs-r2L56wopmskMbva6MVuCkAD8A1D7dEDtXgRRJQ2IpDcZ85TYrHTkxuVZI=w1280-h720-no)
 
+![](https://lh3.googleusercontent.com/-553Z2KzVCc3bTtyI48BrXUdug0KQhlWI9xTGP1mNK9WUrave1W45DuGrM22GV-8ZK6cXLT7pw_xG15uV_2gXJGXPycRb8IJ3nE1RieVf11_0CPzeBneDujwjGb7YeqfYzGnhQ47zF-VJZN8cvf-Sglxdbc6KP_ObsruM1sSBw9ZiB_W5gQpZWDHOKCxP38J0bL8oTLYEIyODb_uHa6dxxvvdGefNRJ4yDrieKHXl7CvOyOS2z4Vcuyyu8vZrIbG3FtpzYvDP34duTraEHKodLD43LPIcbD2LjxuyK1mVsDRiKUkRekAjthRSWZRy40SBz-2cfawDPteSoxLjo-3LNjRMvH9cXVyNDufKaDgajUVBvnSy4ASwD0brivp-zSNjCPTyy7iBkvJgJg6X0terQK1smGHZJ-Bz-yNYUu2agzZO_Qid0Rj407h8od9t2xUZTHVJcc84g0TgZBUfSdQvm1xAxosSeLAb4sT_l318Lf2Kt05yPOwFNrzh1_zYOsxGXwszVLRkIy-BG6E3U_gcgvRtFFqcIIa07Cy6kzrJE8shTlsyfMWwAgm8LEU5FW4az82oL7QTobudb8Q7kclJHvByFrlsB9lINUaJp9JDmiWCQ40JiwMbLJtHxj0sL2MVmQmsIv-J6Tf4pH4SJoY8uh5xLqWUTEichrYwUoS7ywqLjQsU7PUH58=w1280-h720-no)
+
 Paint by Numbers by [Justin Morse](https://www.linkedin.com/in/jcmorse/)
 
 - **Commentary**: In the e-commerce world, consumers are often paralyzed by an overabundance of choice. A simple search for art on Etsy can yield hundreds of thousands of results. This project helped simplify the purchasing process by allowing users to drop in or take a picture of their favorite pieces of art and by using computer vision to identify latent image features that matched art on the Etsy and Artsy marketplaces. Users were then provided recommendations of similar pieces of art at multiple price points, so that they could select the right piece for their budget.
@@ -32,6 +34,9 @@ Once you have a problem defined, it's important to consider what data you need. 
 Sometimes the data you need doesn't exist. In cases like this, you may have to get creative to find a solution. You might have to combine different datasets to serve as a proxy for what you want to measure.
 
 - **Example**: "NYC Parks is tasked with managing over 600,000 street trees, but has the resources to inspect and maintain less than 50,000 trees per year. Currently, NYC relies on highly-biased citizen-submitted tree service requests to prioritize trees for maintenance, which results in over 10,000 tree branch falls per year and substantial cost to the City. Resources could be more efficiently allocated if there was a way to prioritize which trees were highest priority for maintenance."
+
+
+![](https://lh3.googleusercontent.com/e-N9lERYepyjZuHQZz7j2UXLqw5oCDSmwalfMmX3S0Dt9rcnI398lg3ECynZYElr4rMz-4LWWir8TF-JMWOY7NO1Y5qN1jdQiRzSw1dfwgYO2MNZ2yUScYAKkfNOKH5OaNIlgUET-zpIR2qTFybqB_sdkBGIj2lBGWsOpaDwVOsHugp54UcLKeP6aE2MVkhNOrbl-LGxcsoCIdgJ0o_pPinraAoobX1qgcvRkzn73fgyX5jYV5No_a1Ae34RZESNc95Mf8JiJKQmBEV2u2uJG8_wShTZjXAf_GL7P02FbhGD_hc7_dnKle_opCoTaU48-5PkAprFW3m6w69dCPCQhtp9w9_gs2dG1uI7SStqvXAsSpHCZ29xHktKqkMhCQYqQkLjA6PmOvj4GAAmAEfRam32botEo4Y1-powOCC1xo94g2AuHkL5VkoNKqgQWm5zInQDpvpvT_mVOeyPQeavNgeloU5G2WU7uW12eq9t1EPoT7irQ0utwxBzOVas_6H9VHJHKknI43VQJXhPrhs-AhIgVCRI19ZgD3m_X7ejJS_B8fz2O2RWspNWo3OjheIq3T7aDEYVQoNX2DyHbQH-UZ7ts1W-msZLPjWmcP8E8bAm4XVy21Pbgry0fyKmyNMBJmDCvm_-uuVH1Bdphn3dsyGv5NZwGJjFSjHfvURvDV_efIcTvbX_pk0=w960-h540-no)
 
 ![](./media/TreeFall_data.svg)
 
@@ -73,8 +78,8 @@ Replicating an existing product or a need that is already being served does not 
 One of the first impulses for many people is to dig into a dataset to find something "interesting" or to a model with the highest accuracy possible. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjY1NzU4NSwyMTE1MjY0ODIsLTQ3Mz
-kyNzI4NCwxNzQ0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2
-NywyNjI3MTA1ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNj
-Q4MTc2NywtMTcwNDI0MTU3NV19
+eyJoaXN0b3J5IjpbLTE1MTQzMjQ4NjgsMjExNTI2NDgyLC00Nz
+M5MjcyODQsMTc0NDUwNjIwMCwtMzU5NTYzNjczLDEzNTg4NTEw
+NjcsMjYyNzEwNTg3LDY2NjIzMzc0MiwtMTY5Mjk4NDA5MCwxMT
+Y0ODE3NjcsLTE3MDQyNDE1NzVdfQ==
 -->
