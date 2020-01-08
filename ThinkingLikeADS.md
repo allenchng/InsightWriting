@@ -3,7 +3,6 @@
 
 At Insight, we help high achieving scientists transition from academia to industry. In this short article, I will highlight how to think more like a data scientist in industry and how previous fellows at Insight have demonstrated this ability to get jobs at leading companies.
 
-
 ## Focus on product and the business impact
 
 Pretend for a moment you are a data scientist at a company that is considering whether or not to add a feature to a product. To help make your decision, you might use the following questions to drive your analysis.
@@ -77,8 +76,8 @@ Replicating an existing product or a need that is already being served does not 
 One of the first impulses for many people is to dig into a dataset to find something "interesting" or to a model with the highest accuracy possible. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNTc3NzEwLDIxMTUyNjQ4MiwtNDczOT
-I3Mjg0LDE3NDQ1MDYyMDAsLTM1OTU2MzY3MywxMzU4ODUxMDY3
-LDI2MjcxMDU4Nyw2NjYyMzM3NDIsLTE2OTI5ODQwOTAsMTE2ND
-gxNzY3LC0xNzA0MjQxNTc1XX0=
+eyJoaXN0b3J5IjpbLTQ5OTU5MzQ0NCw5MDI1Nzc3MTAsMjExNT
+I2NDgyLC00NzM5MjcyODQsMTc0NDUwNjIwMCwtMzU5NTYzNjcz
+LDEzNTg4NTEwNjcsMjYyNzEwNTg3LDY2NjIzMzc0MiwtMTY5Mj
+k4NDA5MCwxMTY0ODE3NjcsLTE3MDQyNDE1NzVdfQ==
 -->
