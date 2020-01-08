@@ -53,6 +53,8 @@ Data scientists derive value from the ability to take amorphous problems and tur
 
 ![](./media/goketo.svg)
 
+![](https://lh3.googleusercontent.com/t7GOr1EpJHRzUMchyWq5PZ0Sl87wEzxqXZxmtangl2VYALVijyn_jyi3o077_rFwL4VymNPy-PKUJnS68m66rbSsneyKa5FiSLPNzflXcP1Dh4vchzf1NdmSfpkeVyDnbcCyt5XnhKaw1updmnE4H1nCy-98hz033sMNV2Ts3KSIPgLMqKvkjgcqNIwF4eY89-GWr8F4Eh6MYH0orWGxjWlhobVtyMYtXbsjsOiVD_hanTmCL2AusOW7nXdGD-eLYRAwcUxWvTLRRMPSrg8eZkj0orkeK2BPN7Te5InSZUZvgAREqqrPhfEwJDTp3fQiWcBhf6_l9GXBrEjywbliCTCbasL85QGTzuDiOmwg44vo-F5KAxJylakLQhi5qGuw6WCv37_Ib_kOB1yFAWMbqCsSuHQ30ZLXGHu37-BbYLyDXX_QLmUf_JckfZVc1_ypjLgLaeYSwf85PPkpI3pnpxm0gXYT4l_8FqEnUIDulP8tCf1AanmX05fNUwnlo_mvuNNW6h0mGA2w2BmooSPlC6zwDgqWn81xxM0WoW3lQcPlj4NQxEw3UHA4_qD5_xxU0I5JI7rAR7BzvTJR5X3SE28zGAiZzQ8P6lkLkTy_Ck1mQJ2E-nvANudj_auuMK-DPMhaxNWyCM604vBVEGfpVDEGX9zVmKTUpMpClJpJMd3TbTthD4G7x1E=w960-h540-no)
+
 [GoKeto](https://platform.insightdata.com/projects/goketo) by [Daniel Beltran-Villegas](https://www.linkedin.com/in/daniel-beltran-villegas/)
 
 **Commentary**: This project identified a group of users with limited choice and restricted behaviors. The final product utilized Grubhub menu information from local restaurants and nutritional information from major chain restaurants to locate meal options for ketogenic dieters based on their current location. The fellow was able to not only able to viable restaurants for dieters, but also which menu items were most keto-friendly. In doing so, this project provided dieters with a range of choices that suited their dietary lifestyles.
@@ -79,8 +81,8 @@ Replicating an existing product or a need that is already being served does not 
 One of the first impulses for many people is to dig into a dataset to find something "interesting" or to a model with the highest accuracy possible. The problem here is that when you don't start with a top-down approach, you make choices that are not motivated by a problem or a user. It is then obvious to others that you have not started by thinking about the business or the issue.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjcxNzA2OSwyMTE1MjY0ODIsLTQ3Mz
-kyNzI4NCwxNzQ0NTA2MjAwLC0zNTk1NjM2NzMsMTM1ODg1MTA2
-NywyNjI3MTA1ODcsNjY2MjMzNzQyLC0xNjkyOTg0MDkwLDExNj
-Q4MTc2NywtMTcwNDI0MTU3NV19
+eyJoaXN0b3J5IjpbNTM2Mzk1Mjg0LDIxMTUyNjQ4MiwtNDczOT
+I3Mjg0LDE3NDQ1MDYyMDAsLTM1OTU2MzY3MywxMzU4ODUxMDY3
+LDI2MjcxMDU4Nyw2NjYyMzM3NDIsLTE2OTI5ODQwOTAsMTE2ND
+gxNzY3LC0xNzA0MjQxNTc1XX0=
 -->
