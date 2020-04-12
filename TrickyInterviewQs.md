@@ -7,7 +7,9 @@
 
 It’s half-technical, half-behavioral.
 
-### So what sh
+### So what should you do?
+
+
 
 ## What is your experience with machine learning?
 
@@ -39,5 +41,5 @@ You want to be honest but declaring that you know nothing about X shuts the conv
     
 -   Start a conversation about how X could be useful for the company or your projects: “I can see how X could be the most effective method for reducing latency in your model but it tends to be less accurate than method Z. How do you weigh latency versus accuracy in this context?”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzY0NjE4MiwxODQ0OTMxOTQ1XX0=
+eyJoaXN0b3J5IjpbMTIyODEwMDY1LDE4NDQ5MzE5NDVdfQ==
 -->
