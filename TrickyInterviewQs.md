@@ -11,7 +11,13 @@ It’s half-technical, half-behavioral.
 
 ### So what should you do?
 
-
+-   Start big:  “Before Insight, I got my PhD in environmental science where I studied how farmers can benefit from nature.”
+    
+-   As you zero in, make sure to translate it to DS! “I designed and performed both experimental and observational studies which I analyzed with classification models in order to see if changing farm management would result in more fruit produced.”
+    
+-   Add in professional skills as well:  “In order to collect the data I needed, I organized and led 3 field teams of about 6 people each and to process the samples in the lab, I managed more than 10 interns over 2 and a half years.”
+    
+-   Follow the interviewer’s lead! Listen for cues that indicate interest (Questions > Comments > Yes/Mhmms)
 
 ## What is your experience with machine learning?
 
@@ -43,5 +49,5 @@ You want to be honest but declaring that you know nothing about X shuts the conv
     
 -   Start a conversation about how X could be useful for the company or your projects: “I can see how X could be the most effective method for reducing latency in your model but it tends to be less accurate than method Z. How do you weigh latency versus accuracy in this context?”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc4MTA5MzEsMTg0NDkzMTk0NV19
+eyJoaXN0b3J5IjpbMTA4NTMwODgxMywxODQ0OTMxOTQ1XX0=
 -->
