@@ -1,6 +1,8 @@
 
 # Tricky Interview Questions
 
+cowritten with Emily Kearney
+
 ## Tell me a little about your background / your research / a side project.
 
 ### What makes this question hard?
@@ -41,5 +43,5 @@ You want to be honest but declaring that you know nothing about X shuts the conv
     
 -   Start a conversation about how X could be useful for the company or your projects: “I can see how X could be the most effective method for reducing latency in your model but it tends to be less accurate than method Z. How do you weigh latency versus accuracy in this context?”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODEwMDY1LDE4NDQ5MzE5NDVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTc4MTA5MzEsMTg0NDkzMTk0NV19
 -->
