@@ -7,7 +7,11 @@ cowritten with Emily Kearney
 
 ### What makes this question hard?
 
-It’s half-technical, half-behavioral.
+It’s half-technical, half-behavioral. Many people make the mistake of diving straight into research without giving any context about the field / make assumptions about the background of interviewers. Too much jargon makes people question how you would be able to work across teams or communicate technical concepts to non-data scientists. On the other hand, not including enough technical detail can make your responses feel too light.
+
+  
+
+For background work chronologically, have an ordered timeline
 
 ### So what should you do?
 
@@ -49,5 +53,6 @@ You want to be honest but declaring that you know nothing about X shuts the conv
     
 -   Start a conversation about how X could be useful for the company or your projects: “I can see how X could be the most effective method for reducing latency in your model but it tends to be less accurate than method Z. How do you weigh latency versus accuracy in this context?”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTMwODgxMywxODQ0OTMxOTQ1XX0=
+eyJoaXN0b3J5IjpbLTM3OTEwMzUwMSwxMDg1MzA4ODEzLDE4ND
+Q5MzE5NDVdfQ==
 -->
