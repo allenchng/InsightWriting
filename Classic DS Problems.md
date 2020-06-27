@@ -82,6 +82,7 @@ Forecasting involves using historical data to estimate future events.
 ### Industry Examples
 
 [Uber - Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/)
+
 [Twitter- Do more with Twitter data: Evaluating time series and identifying trends](https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series-and-identifying-trends.html))
 
 ### Insight Examples
@@ -93,9 +94,11 @@ Visual item similarity
 
 ## Customer segmentation
 
-Industry example
+### Industry examples
 
-[Human-Readable Categorization of URLs/Apps](https://data-science-mediamath.ghost.io/human-readable-categorization-of-urls-apps/)
+[MediaMath - Human-Readable Categorization of URLs/Apps](https://data-science-mediamath.ghost.io/human-readable-categorization-of-urls-apps/)
+
+[Twitter - Understanding-the-people-behind-the-Tweet](https://blog.twitter.com/developer/en_us/topics/tips/2018/understanding-the-people-behind-the-Tweet.html)
 
 **Insight Examples**
 
@@ -121,5 +124,5 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4NzcxMTcwLDE0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbMjAwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
 -->
