@@ -15,6 +15,7 @@ Core machine learning technique: Regression / Decision Trees
 
 ### What is it?
 
+The process of determining how a good or se
 What price should I sell something at? How do you price something that has never been sold in your store before?
 
 ### Industry Examples
@@ -136,5 +137,5 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODU2MTczXX0=
+eyJoaXN0b3J5IjpbLTEyMTI3NDIzMTMsMTQyODU2MTczXX0=
 -->
