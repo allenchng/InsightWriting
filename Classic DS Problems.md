@@ -32,13 +32,13 @@ The process of determining how a good or service should be graded or priced.
 
 Core machine learning technique: natural language processing 
 
-### Visual similarity **
+## Visual Search 
 
 Core machine learning technique: computer vision
 
 ### Industry examples
 
-[https://dl.acm.org/doi/10.1145/2783258.2788621](https://dl.acm.org/doi/10.1145/2783258.2788621)
+[Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
 
 ## Recommending things to users
 
@@ -125,7 +125,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjY1MjU0MywtMTY0OTYwNDMxNSwtMj
-UzNTEzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2
-ODExNTksMTQyODU2MTczXX0=
+eyJoaXN0b3J5IjpbODM0NzgwNDk5LC0xNjQ5NjA0MzE1LC0yNT
+M1MTMxNDgsLTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4
+MTE1OSwxNDI4NTYxNzNdfQ==
 -->
