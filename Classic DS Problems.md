@@ -7,6 +7,8 @@ Work in progress!
 ### Industry Examples
 [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 
+[Concerto Health - Predicting Cardiac Adverse Events...](https://www.concertohealthai.com/blog/asco20-ai-model-predict-cardiac-ae)
+
 ### Fraud detection
 [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
 
@@ -123,6 +125,6 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxND
-I4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbMTgxNzMyMDkyNiwtMTE5NTc1NDE1NiwyMD
+A1NjgxMTU5LDE0Mjg1NjE3M119
 -->
