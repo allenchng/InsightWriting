@@ -11,15 +11,13 @@ Work in progress!
 
 ## Scoring / Pricing
 
-Core machine learning technique: Regression / Decision Trees
+### Core machine learning technique: 
+Regression / Decision Trees
 
 ### What is it?
-
-The process of determining how a good or se
-What price should I sell something at? How do you price something that has never been sold in your store before?
+The process of determining how a good or service should be graded or priced. 
 
 ### Industry Examples
-
 [Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
 
 
@@ -137,5 +135,5 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI3NDIzMTMsMTQyODU2MTczXX0=
+eyJoaXN0b3J5IjpbMTUxNzU1MzYxMCwxNDI4NTYxNzNdfQ==
 -->
