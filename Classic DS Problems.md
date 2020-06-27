@@ -111,6 +111,8 @@ Visual item similarity
 
 [Using Survival Analysis to understand customer retention](https://youtu.be/aKZQUaNHYb0)
 
+[IBM - Survival Analysis - What is it ? How can it solve my business problems?e](https://community.ibm.com/community/user/datascience/blogs/kunal-sawarkar1/2019/07/17/survival-analysis-what-is-it-and-how-can-it-solve)
+
 ## Organizational networks
 
 ### Insight projects
@@ -127,6 +129,6 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMj
-AwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbMzM2NTg5ODEzLC0xNzIwNzAzNDU0LC0xMT
+k1NzU0MTU2LDIwMDU2ODExNTksMTQyODU2MTczXX0=
 -->
