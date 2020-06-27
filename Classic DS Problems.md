@@ -40,6 +40,8 @@ Core machine learning technique: computer vision
 
 [Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
 
+[eBay - Visual Search at eB](https://dl.acm.org/doi/10.1145/3097983.3098162)
+
 ## Recommending things to users
 
 Core machine learning technique: recommendation systems
@@ -125,7 +127,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NzgwNDk5LC0xNjQ5NjA0MzE1LC0yNT
-M1MTMxNDgsLTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4
-MTE1OSwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbMTI2NzQ3MDgyMywtMTY0OTYwNDMxNSwtMj
+UzNTEzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2
+ODExNTksMTQyODU2MTczXX0=
 -->
