@@ -36,8 +36,9 @@ Core machine learning technique: natural language processing
 
 Core machine learning technique: computer vision
 
-Justin Morse
-jianing - computer vision
+### Industry examples
+
+[https://dl.acm.org/doi/10.1145/2783258.2788621](https://dl.acm.org/doi/10.1145/2783258.2788621)
 
 ## Recommending things to users
 
@@ -124,7 +125,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMT
-cyMDcwMzQ1NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1
-NjE3M119
+eyJoaXN0b3J5IjpbMTUwMjY1MjU0MywtMTY0OTYwNDMxNSwtMj
+UzNTEzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2
+ODExNTksMTQyODU2MTczXX0=
 -->
