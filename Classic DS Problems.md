@@ -30,14 +30,7 @@ The process of determining how a good or service should be graded or priced.
 
 ### Text summarization
 
-Core machine learning technique: natural language processing
-
-**Good Examples** 
-
-Yuchen
-aditya j - text summarization
-alex daly - text summarization
-Avi
+Core machine learning technique: natural language processing 
 
 ### Visual similarity **
 
@@ -98,6 +91,8 @@ Visual item similarity
 
 ## Customer segmentation
 
+Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
+
 ### Industry examples
 
 [MediaMath - Human-Readable Categorization of URLs/Apps](https://data-science-mediamath.ghost.io/human-readable-categorization-of-urls-apps/)
@@ -129,7 +124,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgyNTExOSwtMjUzNTEzMTQ4LC0xNz
-IwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2ODExNTksMTQyODU2
-MTczXX0=
+eyJoaXN0b3J5IjpbLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMT
+cyMDcwMzQ1NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1
+NjE3M119
 -->
