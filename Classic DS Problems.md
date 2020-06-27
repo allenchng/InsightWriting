@@ -113,18 +113,16 @@ Visual item similarity
 
 ## Churn prediction
 
-### What is it?
-
 Churn is when users leave your product or service. Understanding who is likely to leave your service is important for retargeting, as the cost of customer acquisition is typically much higher than the cost of customer retention.
 
 ### Industry Examples
 
-[Klaviyo - Predicting churn-risk-our-new-model](https://www.klaviyo.com/blog/predicting-churn-risk-our-new-model)
+[Klaviyo - Predicting churn risk our new model](https://www.klaviyo.com/blog/predicting-churn-risk-our-new-model)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY4MTQ4MDEsMjAwNTY4MTE1OSwxND
+eyJoaXN0b3J5IjpbLTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxND
 I4NTYxNzNdfQ==
 -->
