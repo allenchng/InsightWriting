@@ -4,7 +4,8 @@ Work in progress!
 
 ## Classification
 
-[The New York Times](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
+### Industry 
+[How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 
 ### Fraud detection
 [How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
@@ -106,20 +107,6 @@ Industry example
 
 ## Organizational networks
 
-isabel - graph theory
-
-
-### Industry Examples
-
-Netflix, Amazon, NYT
-
-
-### Insight Examples
-
-Heidi, Austin
-
-
-
 ### Insight projects
 
 ## Churn prediction
@@ -135,5 +122,5 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzU1MzYxMCwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbMTk4NTUwMTc3MiwxNDI4NTYxNzNdfQ==
 -->
