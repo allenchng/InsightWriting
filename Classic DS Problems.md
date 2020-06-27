@@ -81,9 +81,8 @@ Forecasting involves using historical data to estimate future events.
 
 ### Industry Examples
 
-NYT, twitter
-
 [Uber - Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/)
+[Twitter- Do more with Twitter data: Evaluating time series and identifying trends](https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series-and-identifying-trends.html))
 
 ### Insight Examples
 
@@ -122,5 +121,5 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc5Mzk1NzEsMTQyODU2MTczXX0=
+eyJoaXN0b3J5IjpbMzU4NzcxMTcwLDE0Mjg1NjE3M119
 -->
