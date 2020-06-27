@@ -9,6 +9,8 @@ Work in progress!
 
 [Concerto Health - Predicting Cardiac Adverse Events...](https://www.concertohealthai.com/blog/asco20-ai-model-predict-cardiac-ae)
 
+[Concerto Health - Identifying Slow Progressors Among aNSCLC Patients](https://www.concertohealthai.com/blog/asco20-ai-model-predict-slow-progressors)
+
 ### Fraud detection
 [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
 
@@ -125,6 +127,6 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzMyMDkyNiwtMTE5NTc1NDE1NiwyMD
-A1NjgxMTU5LDE0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbLTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMj
+AwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
 -->
