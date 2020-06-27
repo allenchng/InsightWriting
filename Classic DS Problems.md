@@ -4,11 +4,11 @@ Work in progress!
 
 ## Classification
 
-### Industry 
-[How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
+### Industry Examples
+[The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 
 ### Fraud detection
-[How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
+[Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
 
 ## Scoring / Pricing
 
@@ -50,7 +50,7 @@ Core machine learning technique: recommendation systems
 The technology that powers the movies you see when you open Netflix or when Amazon suggests products to purchase. Recommendation systems are a fundamental product.
 
 **Industry Examples**
-[The New York Times](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
+[The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
 
 
 
@@ -65,7 +65,7 @@ Core machine learning technique: natural language processing
 ### Search systems
 
 **Industry Examples**
-[Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
+[Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
 
 **Insight Examples**
 [AutoFind: search engine for car forums](https://platform.insightdata.com/projects/autofind-search-engine-for-car-forums)
@@ -83,7 +83,7 @@ Forecasting involves using historical data to estimate future events.
 
 NYT, twitter
 
-[Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/)
+[Uber - Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/)
 
 ### Insight Examples
 
@@ -122,5 +122,5 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTUwMTc3MiwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbLTIxMjc5Mzk1NzEsMTQyODU2MTczXX0=
 -->
