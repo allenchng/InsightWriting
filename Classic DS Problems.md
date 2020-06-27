@@ -14,6 +14,8 @@ Work in progress!
 ### Fraud detection
 [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
 
+### Anomaly detection
+
 ## Scoring / Pricing
 
 ### Core machine learning technique: 
@@ -121,7 +123,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTE0Nzg1OSwtMTY0OTYwNDMxNSwtMj
-UzNTEzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2
-ODExNTksMTQyODU2MTczXX0=
+eyJoaXN0b3J5IjpbNzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNT
+M1MTMxNDgsLTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4
+MTE1OSwxNDI4NTYxNzNdfQ==
 -->
