@@ -119,10 +119,12 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 ### Industry Examples
 
+[Klaviyo - Predicting churn-risk-our-new-model](https://www.klaviyo.com/blog/predicting-churn-risk-our-new-model)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbLTExNzY4MTQ4MDEsMjAwNTY4MTE1OSwxND
+I4NTYxNzNdfQ==
 -->
