@@ -34,13 +34,13 @@ Core machine learning technique: natural language processing
 
 ## Visual Search 
 
-Core machine learning technique: computer vision
+Finding what you want, with images
 
 ### Industry examples
 
 [Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
 
-[eBay - Visual Search at eB](https://dl.acm.org/doi/10.1145/3097983.3098162)
+[eBay - Visual Search at eBay](https://dl.acm.org/doi/10.1145/3097983.3098162)
 
 ## Recommending things to users
 
@@ -51,12 +51,6 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 
 **Industry Examples**
 [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
-
-
-
-**Insight Examples**
-
-Bento - Birds of a Feather
 
 ## Search Systems
 
@@ -127,7 +121,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzQ3MDgyMywtMTY0OTYwNDMxNSwtMj
+eyJoaXN0b3J5IjpbMjE0MTE0Nzg1OSwtMTY0OTYwNDMxNSwtMj
 UzNTEzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2
 ODExNTksMTQyODU2MTczXX0=
 -->
