@@ -32,6 +32,8 @@ Anomaly detection is an approach used to identify unusual patterns in data.
 
 [Datadog - Introducing Anomaly Detection](https://www.datadoghq.com/blog/introducing-anomaly-detection-datadog/)
 
+[Datadog - Robust Statistical Distances for Machine Learning](https://www.datadoghq.com/blog/engineering/robust-statistical-distances-for-machine-learning/)
+
 ## Scoring / Pricing
 
 The process of determining how a good or service should be graded or priced. 
@@ -122,7 +124,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM1NzQ1NDcsNjMwNDAxNzI1LDEyMD
+eyJoaXN0b3J5IjpbLTE1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMD
 kzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5
 LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
 E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
