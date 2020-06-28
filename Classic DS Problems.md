@@ -59,7 +59,8 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 Finding what you want with words.
 
 **Industry Examples**
-[Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
+- [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
+- [eBay - # At eBay, Machine Learning is Driving Innovative New Approaches to Search Experiences](https://www.ebayinc.com/stories/news/at-ebay-machine-learning-is-driving-innovative-new-approaches-to-search-experiences/)
 
 **Insight Examples**
 [AutoFind: search engine for car forums](https://platform.insightdata.com/projects/autofind-search-engine-for-car-forums)
@@ -121,7 +122,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTEzMjc1ODgsMTIyODQ1ODU2LDk0NT
+eyJoaXN0b3J5IjpbLTEyNDg2MTc3MjMsMTIyODQ1ODU2LDk0NT
 Q3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYs
 Nzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3Mj
 A3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxNDI4NTYx
