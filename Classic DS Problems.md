@@ -103,13 +103,13 @@ Customer segmentation is the process of dividing customers into groups based on 
 
 ## Survival analysis
 
+Survival analysis measures the time until an event occurs.
+
 [Tails.com - Using Survival Analysis to understand customer retention](https://youtu.be/aKZQUaNHYb0)
 
 [IBM - Survival Analysis - What is it? How can it solve my business problems?](https://community.ibm.com/community/user/datascience/blogs/kunal-sawarkar1/2019/07/17/survival-analysis-what-is-it-and-how-can-it-solve)
 
 ## Organizational networks
-
-### Insight projects
 
 ## Churn prediction
 
@@ -123,7 +123,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAzMzMzNjUsLTExNTAzNjQwMTIsLT
+eyJoaXN0b3J5IjpbLTE1MTU3ODI5ODMsLTExNTAzNjQwMTIsLT
 E1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMDkzMjI0MjIsMTY2NzIz
 MDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5LDEwNjI4ODI0MjYsNT
 M3NjUyODIyLDgxMjQ4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MDQz
