@@ -27,7 +27,8 @@ Anomaly detection is a approach used to identify unusual patterns in data.
 The process of determining how a good or service should be graded or priced. 
 
 ### Industry Examples
-[Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
+- [Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
+- [Wayfair - Measuring Price Effects](https://youtu.be/F7k-IqgxRcw?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 
 
 ## Extracting structure from unstructured data
@@ -51,7 +52,7 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 
 **Industry Examples**
 - [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
-- - https://www.youtube.com/watch?v=JST1FyQOmWs&list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB&index=14
+-[Wayfair - Product Recommendations](https://www.youtube.com/watch?v=JST1FyQOmWs&list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB&index=14)
 
 ## Search Systems
 
@@ -122,7 +123,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NDMwMTc0LDEwNjI4ODI0MjYsNTM3Nj
+eyJoaXN0b3J5IjpbOTQ1NDcwNjg5LDEwNjI4ODI0MjYsNTM3Nj
 UyODIyLDgxMjQ4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MDQzMTUs
 LTI1MzUxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1NiwyMD
 A1NjgxMTU5LDE0Mjg1NjE3M119
