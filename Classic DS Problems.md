@@ -11,7 +11,7 @@ Work in progress!
 
 [Concerto Health - Identifying Slow Progressors Among aNSCLC Patients](https://www.concertohealthai.com/blog/asco20-ai-model-predict-slow-progressors)
 
-## Fraud detection
+## Fraud / Anomaly detection
 
 
 
@@ -116,9 +116,9 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgxOTUzNjAsNjMwNDAxNzI1LDEyMD
-kzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5
-LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
-E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
-NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbMzQ2NTc4MTkwLDYzMDQwMTcyNSwxMjA5Mz
+IyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3MDY4OSwx
+MDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NTcxOD
+AwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0NTQs
+LTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
 -->
