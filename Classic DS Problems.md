@@ -44,19 +44,15 @@ Finding what you want, with images
 
 ### Industry examples
 
-[Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
+- [Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
+- [eBay - Visual Search at eBay](https://dl.acm.org/doi/10.1145/3097983.3098162)
 
-[eBay - Visual Search at eBay](https://dl.acm.org/doi/10.1145/3097983.3098162)
+## Recommendation systems
 
-## Recommending things to users
-
-Core machine learning technique: recommendation systems
-
-### What is it?
 The technology that powers the movies you see when you open Netflix or when Amazon suggests products to purchase. Recommendation systems are a fundamental product.
 
 **Industry Examples**
-[The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
+- [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
 
 ## Search Systems
 
@@ -127,7 +123,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNDgyMDQ2LDc5NjU3MTgwMCwtMTY0OT
-YwNDMxNSwtMjUzNTEzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0
-MTU2LDIwMDU2ODExNTksMTQyODU2MTczXX0=
+eyJoaXN0b3J5IjpbNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
+E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
+NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
 -->
