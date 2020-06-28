@@ -11,18 +11,22 @@ Work in progress!
 
 [Concerto Health - Identifying Slow Progressors Among aNSCLC Patients](https://www.concertohealthai.com/blog/asco20-ai-model-predict-slow-progressors)
 
-## Fraud / Anomaly detection
+## Fraud detection
 
+Fraud detection is an approach to identify malicious and ill intention
 
+### Industry Examples
 
 [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
 
 [White Ops - The Methbot Operation](https://www.whiteops.com/methbot)
 
 
-### Anomaly detection
+## Anomaly detection
 
 Anomaly detection is an approach used to identify unusual patterns in data.
+
+### Industry Examples
 
 [Oracle - Introduction to Anomaly Detection](https://blogs.oracle.com/datascience/introduction-to-anomaly-detection)
 
@@ -116,9 +120,9 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2NTc4MTkwLDYzMDQwMTcyNSwxMjA5Mz
-IyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3MDY4OSwx
-MDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NTcxOD
-AwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0NTQs
-LTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbLTMxMDgzMTQ1Miw2MzA0MDE3MjUsMTIwOT
+MyMjQyMiwxNjY3MjMwNDE5LDEyMjg0NTg1Niw5NDU0NzA2ODks
+MTA2Mjg4MjQyNiw1Mzc2NTI4MjIsODEyNDgyMDQ2LDc5NjU3MT
+gwMCwtMTY0OTYwNDMxNSwtMjUzNTEzMTQ4LC0xNzIwNzAzNDU0
+LC0xMTk1NzU0MTU2LDIwMDU2ODExNTksMTQyODU2MTczXX0=
 -->
