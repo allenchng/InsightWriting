@@ -44,7 +44,7 @@ Finding what you want, with images
 ### Industry examples
 
 - [Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
-- [eBay - Visual Search at eBay](https://dl.acm.org/doi/10.1145/3097983.3098162)
+- [eBay - Visual Search at eBay]([https://www.ebayinc.com/stories/news/an-easier-way-to-search-ebay-computer-vision-with-find-it-on-ebay-and-image-search-is-now-live/](https://www.ebayinc.com/stories/news/an-easier-way-to-search-ebay-computer-vision-with-find-it-on-ebay-and-image-search-is-now-live/))
 
 ## Recommendation systems
 
@@ -122,9 +122,9 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDU4Njk0NiwxMjI4NDU4NTYsOTQ1ND
-cwNjg5LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3
-OTY1NzE4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMD
-cwMzQ1NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3
-M119
+eyJoaXN0b3J5IjpbLTIwOTc0OTM2MDIsMTIyODQ1ODU2LDk0NT
+Q3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYs
+Nzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3Mj
+A3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxNDI4NTYx
+NzNdfQ==
 -->
