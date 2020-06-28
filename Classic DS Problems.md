@@ -45,15 +45,17 @@ The process of determining how a good or service should be graded or priced.
 
 ## Text summarization
 
-Extracting structure from unstructured text data
+Extracting structure from unstructured text data.
+
+#### Industry Examples
 
 [Wayfair - Product Tagging](https://youtu.be/WBqRsRAnK28?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 
 ## Visual Search 
 
-Finding what you want, with images
+Keywords often do not do a good job describing features of images. In these situations, it can be m
 
-### Industry examples
+#### Industry examples
 
 - [Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
 - [eBay - An Easier Way to Search eBay: Computer Vision with Find It On eBay and Image Search Is Now Live](https://www.ebayinc.com/stories/news/an-easier-way-to-search-ebay-computer-vision-with-find-it-on-ebay-and-image-search-is-now-live/)
@@ -124,9 +126,10 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMD
-kzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5
-LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
-E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
-NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbNzA3NjY0MzQzLC0xNTUxOTA4NTgzLDYzMD
+QwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2
+LDk0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0OD
+IwNDYsNzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgs
+LTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxND
+I4NTYxNzNdfQ==
 -->
