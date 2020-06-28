@@ -16,6 +16,8 @@ Work in progress!
 
 ### Anomaly detection
 
+[Oracle - Introduction to Anomaly Detection](https://blogs.oracle.com/datascience/introduction-to-anomaly-detection)
+
 ## Scoring / Pricing
 
 ### Core machine learning technique: 
@@ -123,7 +125,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNT
-M1MTMxNDgsLTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4
-MTE1OSwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbMTQ1NjE4MTE0Niw3OTY1NzE4MDAsLTE2ND
+k2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1
+NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
 -->
