@@ -31,11 +31,11 @@ The process of determining how a good or service should be graded or priced.
 - [Wayfair - Measuring Price Effects](https://youtu.be/F7k-IqgxRcw?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 
 
-## Extracting structure from unstructured data
+## Text summarization
 
-### Text summarization
+Extracting structure from unstructured text data
 
-Core machine learning technique: natural language processing 
+[Wayfair - Product Tagging](https://youtu.be/WBqRsRAnK28?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 
 ## Visual Search 
 
@@ -123,8 +123,8 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NDcwNjg5LDEwNjI4ODI0MjYsNTM3Nj
-UyODIyLDgxMjQ4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MDQzMTUs
-LTI1MzUxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1NiwyMD
-A1NjgxMTU5LDE0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbMTIyODQ1ODU2LDk0NTQ3MDY4OSwxMDYyOD
+gyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NTcxODAwLC0x
+NjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0NTQsLTExOT
+U3NTQxNTYsMjAwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
 -->
