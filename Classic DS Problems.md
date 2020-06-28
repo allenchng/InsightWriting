@@ -1,6 +1,6 @@
 # Data Science Problems in the Real World
 
-Work in progress! 
+This document is a work in progress!
 
 ## Classification
 
@@ -115,11 +115,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4ND
-A1MTUsLTE1MTU3ODI5ODMsLTExNTAzNjQwMTIsLTE1NTE5MDg1
-ODMsNjMwNDAxNzI1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMj
-I4NDU4NTYsOTQ1NDcwNjg5LDEwNjI4ODI0MjYsNTM3NjUyODIy
-LDgxMjQ4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MDQzMTUsLTI1Mz
-UxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1NiwyMDA1Njgx
-MTU5XX0=
+eyJoaXN0b3J5IjpbMTUzMTA5Mjk5Nyw1NzY5NzE4MTUsMzY4Nj
+k3MTUyLDczNDg0MDUxNSwtMTUxNTc4Mjk4MywtMTE1MDM2NDAx
+MiwtMTU1MTkwODU4Myw2MzA0MDE3MjUsMTIwOTMyMjQyMiwxNj
+Y3MjMwNDE5LDEyMjg0NTg1Niw5NDU0NzA2ODksMTA2Mjg4MjQy
+Niw1Mzc2NTI4MjIsODEyNDgyMDQ2LDc5NjU3MTgwMCwtMTY0OT
+YwNDMxNSwtMjUzNTEzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0
+MTU2XX0=
 -->
