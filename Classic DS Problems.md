@@ -13,7 +13,7 @@ Work in progress!
 
 ## Fraud detection
 
-Fraud detection is an approach to identify malicious and ill intention
+Fraud detection is an approach to identify malicious and ill-intentioned transactions with a system.
 
 ### Industry Examples
 
@@ -29,6 +29,8 @@ Anomaly detection is an approach used to identify unusual patterns in data.
 ### Industry Examples
 
 [Oracle - Introduction to Anomaly Detection](https://blogs.oracle.com/datascience/introduction-to-anomaly-detection)
+
+[Datadog - Introducing Anomaly Detection](https://www.datadoghq.com/blog/introducing-anomaly-detection-datadog/)
 
 ## Scoring / Pricing
 
@@ -120,9 +122,9 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDgzMTQ1Miw2MzA0MDE3MjUsMTIwOT
-MyMjQyMiwxNjY3MjMwNDE5LDEyMjg0NTg1Niw5NDU0NzA2ODks
-MTA2Mjg4MjQyNiw1Mzc2NTI4MjIsODEyNDgyMDQ2LDc5NjU3MT
-gwMCwtMTY0OTYwNDMxNSwtMjUzNTEzMTQ4LC0xNzIwNzAzNDU0
-LC0xMTk1NzU0MTU2LDIwMDU2ODExNTksMTQyODU2MTczXX0=
+eyJoaXN0b3J5IjpbLTExMzM1NzQ1NDcsNjMwNDAxNzI1LDEyMD
+kzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5
+LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
+E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
+NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
 -->
