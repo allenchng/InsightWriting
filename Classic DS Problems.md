@@ -13,12 +13,13 @@ Work in progress!
 
 ### Fraud detection
 [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
+
 [White Ops - The Methbot Operation](https://www.whiteops.com/methbot)
 
 
 ### Anomaly detection
 
-Anomaly detection is a approach used to identify unusual patterns in data.
+Anomaly detection is an approach used to identify unusual patterns in data.
 
 [Oracle - Introduction to Anomaly Detection](https://blogs.oracle.com/datascience/introduction-to-anomaly-detection)
 
@@ -71,8 +72,6 @@ Finding what you want with words.
 
 ## Time series forecasting
 
-### What is it?
-
 Forecasting involves using historical data to estimate future events. 
 
 ### Industry Examples
@@ -80,13 +79,6 @@ Forecasting involves using historical data to estimate future events.
 [Uber - Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/)
 
 [Twitter- Do more with Twitter data: Evaluating time series and identifying trends](https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series-and-identifying-trends.html))
-
-### Insight Examples
-
-[Seed: Harvesting success for farmers market vendors](https://platform.insightdata.com/projects/seed-harvesting-success-for-farmers-market-vendors)
-
-Name entity recognition
-Visual item similarity
 
 ## Customer segmentation
 
@@ -97,8 +89,6 @@ Customer segmentation is the process of dividing customers into groups based on 
 [MediaMath - Human-Readable Categorization of URLs/Apps](https://data-science-mediamath.ghost.io/human-readable-categorization-of-urls-apps/)
 
 [Twitter - Understanding-the-people-behind-the-Tweet](https://blog.twitter.com/developer/en_us/topics/tips/2018/understanding-the-people-behind-the-Tweet.html)
-
-**Insight Examples**
 
 
 ## Survival analysis
@@ -123,9 +113,9 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEyMj
-g0NTg1Niw5NDU0NzA2ODksMTA2Mjg4MjQyNiw1Mzc2NTI4MjIs
-ODEyNDgyMDQ2LDc5NjU3MTgwMCwtMTY0OTYwNDMxNSwtMjUzNT
-EzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2ODEx
-NTksMTQyODU2MTczXX0=
+eyJoaXN0b3J5IjpbNjMwNDAxNzI1LDEyMDkzMjI0MjIsMTY2Nz
+IzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5LDEwNjI4ODI0MjYs
+NTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MD
+QzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1
+NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
 -->
