@@ -16,6 +16,8 @@ Work in progress!
 
 ### Anomaly detection
 
+Anomaly detection is a approach used to identify unusual patterns in data.
+
 [Oracle - Introduction to Anomaly Detection](https://blogs.oracle.com/datascience/introduction-to-anomaly-detection)
 
 ## Scoring / Pricing
@@ -125,7 +127,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjE4MTE0Niw3OTY1NzE4MDAsLTE2ND
-k2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1
-NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbODEyNDgyMDQ2LDc5NjU3MTgwMCwtMTY0OT
+YwNDMxNSwtMjUzNTEzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0
+MTU2LDIwMDU2ODExNTksMTQyODU2MTczXX0=
 -->
