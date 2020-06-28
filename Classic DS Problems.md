@@ -11,7 +11,10 @@ Work in progress!
 
 [Concerto Health - Identifying Slow Progressors Among aNSCLC Patients](https://www.concertohealthai.com/blog/asco20-ai-model-predict-slow-progressors)
 
-### Fraud detection
+## Fraud detection
+
+
+
 [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
 
 [White Ops - The Methbot Operation](https://www.whiteops.com/methbot)
@@ -113,9 +116,9 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNDAxNzI1LDEyMDkzMjI0MjIsMTY2Nz
-IzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5LDEwNjI4ODI0MjYs
-NTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MD
-QzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1
-NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbLTE0NzgxOTUzNjAsNjMwNDAxNzI1LDEyMD
+kzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5
+LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
+E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
+NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
 -->
