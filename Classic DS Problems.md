@@ -97,6 +97,8 @@ Customer segmentation is the process of dividing customers into groups based on 
 
 [Twitter - Understanding-the-people-behind-the-Tweet](https://blog.twitter.com/developer/en_us/topics/tips/2018/understanding-the-people-behind-the-Tweet.html)
 
+[Dstillery - Artificial Intelligence on Human Behavior: NEw Insights Into Customer Segmentation](https://dstillery.com/artificial-intelligence-on-human-behavior-new-insights-into-customer-segmentation/)
+
 
 ## Survival analysis
 
@@ -120,10 +122,10 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MjAwMDM5LC0xNTUxOTA4NTgzLDYzMD
-QwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2
-LDk0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0OD
-IwNDYsNzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgs
-LTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxND
-I4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbLTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNj
+MwNDAxNzI1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4
+NTYsOTQ1NDcwNjg5LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMj
+Q4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0
+OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LD
+E0Mjg1NjE3M119
 -->
