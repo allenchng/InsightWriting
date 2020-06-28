@@ -52,7 +52,8 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 
 **Industry Examples**
 - [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
--[Wayfair - Product Recommendations](https://www.youtube.com/watch?v=JST1FyQOmWs&list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB&index=14)
+- [Wayfair - Product Recommendations](https://www.youtube.com/watch?v=JST1FyQOmWs&list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB&index=14)
+- [eBay - How eBay is Advancing New Shopping, Browsing Models](https://www.ebayinc.com/stories/news/how-ebay-is-advancing-new-shopping-browsing-models/)
 
 ## Search Systems
 
@@ -122,9 +123,9 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1ND
-cwNjg5LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3
-OTY1NzE4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMD
-cwMzQ1NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3
-M119
+eyJoaXN0b3J5IjpbMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEyMj
+g0NTg1Niw5NDU0NzA2ODksMTA2Mjg4MjQyNiw1Mzc2NTI4MjIs
+ODEyNDgyMDQ2LDc5NjU3MTgwMCwtMTY0OTYwNDMxNSwtMjUzNT
+EzMTQ4LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2ODEx
+NTksMTQyODU2MTczXX0=
 -->
