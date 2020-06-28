@@ -10,6 +10,8 @@ Your presentation should flow as you make each point, not feel like you're movin
 
 Similarly, use opacity and color to emphasize the points you want to make. 
 
+![](./media/color_example.gif)
+
 ## Identify the challenges that are unique to problems in your domain.
 
 As you demo your project, it is essential to understand and highlight the instances where your data did not conform to conventional norms. Companies are looking for data scientists that have an ability to grasp the nuances of data within their domain and apply that deep understanding to be creative in the ways that they model their data. Identifying why the problem you are tackling is more difficult than first meets the eye or bringing experience within a domain will demonstrate evidence of this ability.
