@@ -56,9 +56,7 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 
 ## Search Systems
 
-Core machine learning technique: natural language processing
-
-### Search systems
+Finding what you want with words.
 
 **Industry Examples**
 [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
@@ -123,8 +121,9 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODQ1ODU2LDk0NTQ3MDY4OSwxMDYyOD
-gyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NTcxODAwLC0x
-NjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0NTQsLTExOT
-U3NTQxNTYsMjAwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbLTExMTEzMjc1ODgsMTIyODQ1ODU2LDk0NT
+Q3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYs
+Nzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3Mj
+A3MDM0NTQsLTExOTU3NTQxNTYsMjAwNTY4MTE1OSwxNDI4NTYx
+NzNdfQ==
 -->
