@@ -24,10 +24,6 @@ Anomaly detection is a approach used to identify unusual patterns in data.
 
 ## Scoring / Pricing
 
-### Core machine learning technique: 
-Regression / Decision Trees
-
-### What is it?
 The process of determining how a good or service should be graded or priced. 
 
 ### Industry Examples
@@ -125,8 +121,8 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mjg4MjQyNiw1Mzc2NTI4MjIsODEyND
-gyMDQ2LDc5NjU3MTgwMCwtMTY0OTYwNDMxNSwtMjUzNTEzMTQ4
-LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2ODExNTksMT
-QyODU2MTczXX0=
+eyJoaXN0b3J5IjpbMTU1Njg1NTAyNywxMDYyODgyNDI2LDUzNz
+Y1MjgyMiw4MTI0ODIwNDYsNzk2NTcxODAwLC0xNjQ5NjA0MzE1
+LC0yNTM1MTMxNDgsLTE3MjA3MDM0NTQsLTExOTU3NTQxNTYsMj
+AwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
 -->
