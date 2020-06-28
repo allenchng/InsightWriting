@@ -53,7 +53,7 @@ Extracting structure from unstructured text data.
 
 ## Visual Search 
 
-Keywords often do not do a good job describing features of images. In these situations, it can be m
+Keywords often do not do a good job describing features of images. In these situations, visual search is a necessary process.
 
 #### Industry examples
 
@@ -62,7 +62,7 @@ Keywords often do not do a good job describing features of images. In these situ
 
 ## Recommendation systems
 
-The technology that powers the movies you see when you open Netflix or when Amazon suggests products to purchase. Recommendation systems are a fundamental product.
+The technology that powers the movies you see when you open Netflix or when Amazon suggests products to purchase.
 
 **Industry Examples**
 - [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
@@ -77,17 +77,11 @@ Finding what you want with words.
 - [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
 - [eBay - At eBay, Machine Learning is Driving Innovative New Approaches to Search Experiences](https://www.ebayinc.com/stories/news/at-ebay-machine-learning-is-driving-innovative-new-approaches-to-search-experiences/)
 
-**Insight Examples**
-[AutoFind: search engine for car forums](https://platform.insightdata.com/projects/autofind-search-engine-for-car-forums)
-
-
-## A/B Testing
-
 ## Time series forecasting
 
 Forecasting involves using historical data to estimate future events. 
 
-### Industry Examples
+#### Industry Examples
 
 [Uber - Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/)
 
@@ -97,7 +91,7 @@ Forecasting involves using historical data to estimate future events.
 
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
 
-### Industry examples
+#### Industry examples
 
 [MediaMath - Human-Readable Categorization of URLs/Apps](https://data-science-mediamath.ghost.io/human-readable-categorization-of-urls-apps/)
 
@@ -126,7 +120,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3NjY0MzQzLC0xNTUxOTA4NTgzLDYzMD
+eyJoaXN0b3J5IjpbMjQ5MjAwMDM5LC0xNTUxOTA4NTgzLDYzMD
 QwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2
 LDk0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0OD
 IwNDYsNzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgs
