@@ -8,6 +8,7 @@ Work in progress!
 - [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 - [Concerto Health - Predicting Cardiac Adverse Events...](https://www.concertohealthai.com/blog/asco20-ai-model-predict-cardiac-ae)
 - [Concerto Health - Identifying Slow Progressors Among aNSCLC Patients](https://www.concertohealthai.com/blog/asco20-ai-model-predict-slow-progressors)
+- [Netflix - Optimizing Content Quality Control At Netflix with Predictive Modeling](https://netflixtechblog.com/optimizing-content-quality-control-at-netflix-with-predictive-modeling-712281658ab9)
 
 ## Fraud detection
 
@@ -90,7 +91,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 
 - [MediaMath - Human-Readable Categorization of URLs/Apps](https://data-science-mediamath.ghost.io/human-readable-categorization-of-urls-apps/)
 - [Twitter - Understanding-the-people-behind-the-Tweet](https://blog.twitter.com/developer/en_us/topics/tips/2018/understanding-the-people-behind-the-Tweet.html)
-- [Dstillery - Artificial Intelligence on Human Behavior: NEw Insights Into Customer Segmentation](https://dstillery.com/artificial-intelligence-on-human-behavior-new-insights-into-customer-segmentation/)
+- [Dstillery - Artificial Intelligence on Human Behavior: New Insights Into Customer Segmentation](https://dstillery.com/artificial-intelligence-on-human-behavior-new-insights-into-customer-segmentation/)
 - [Dstillery - The Data Science Playbook for Super Bowl Marketing](https://dstillery.com/the-data-science-playbook-for-super-bowl-marketing/)
 
 ## Survival analysis
@@ -114,11 +115,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4Njk3MTUyLDczNDg0MDUxNSwtMTUxNT
-c4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2MzA0MDE3
-MjUsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEyMjg0NTg1Niw5ND
-U0NzA2ODksMTA2Mjg4MjQyNiw1Mzc2NTI4MjIsODEyNDgyMDQ2
-LDc5NjU3MTgwMCwtMTY0OTYwNDMxNSwtMjUzNTEzMTQ4LC0xNz
-IwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2ODExNTksMTQyODU2
-MTczXX0=
+eyJoaXN0b3J5IjpbNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4ND
+A1MTUsLTE1MTU3ODI5ODMsLTExNTAzNjQwMTIsLTE1NTE5MDg1
+ODMsNjMwNDAxNzI1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMj
+I4NDU4NTYsOTQ1NDcwNjg5LDEwNjI4ODI0MjYsNTM3NjUyODIy
+LDgxMjQ4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MDQzMTUsLTI1Mz
+UxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1NiwyMDA1Njgx
+MTU5XX0=
 -->
