@@ -99,6 +99,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 
 [Dstillery - Artificial Intelligence on Human Behavior: NEw Insights Into Customer Segmentation](https://dstillery.com/artificial-intelligence-on-human-behavior-new-insights-into-customer-segmentation/)
 
+[Dstillery - The Data Science Playbook for Super Bowl Marketing](https://dstillery.com/the-data-science-playbook-for-super-bowl-marketing/)
 
 ## Survival analysis
 
@@ -122,10 +123,10 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNj
-MwNDAxNzI1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4
-NTYsOTQ1NDcwNjg5LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMj
-Q4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0
-OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LD
-E0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbLTE1NzAzMzMzNjUsLTExNTAzNjQwMTIsLT
+E1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMDkzMjI0MjIsMTY2NzIz
+MDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5LDEwNjI4ODI0MjYsNT
+M3NjUyODIyLDgxMjQ4MjA0Niw3OTY1NzE4MDAsLTE2NDk2MDQz
+MTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1NCwtMTE5NTc1NDE1Ni
+wyMDA1NjgxMTU5LDE0Mjg1NjE3M119
 -->
