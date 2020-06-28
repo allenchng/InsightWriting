@@ -13,6 +13,8 @@ Work in progress!
 
 ### Fraud detection
 [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
+[White Ops - The Methbot Operation](https://www.whiteops.com/methbot)
+
 
 ### Anomaly detection
 
@@ -123,7 +125,8 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
-E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
-NCwtMTE5NTc1NDE1NiwyMDA1NjgxMTU5LDE0Mjg1NjE3M119
+eyJoaXN0b3J5IjpbMTA2Mjg4MjQyNiw1Mzc2NTI4MjIsODEyND
+gyMDQ2LDc5NjU3MTgwMCwtMTY0OTYwNDMxNSwtMjUzNTEzMTQ4
+LC0xNzIwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2ODExNTksMT
+QyODU2MTczXX0=
 -->
