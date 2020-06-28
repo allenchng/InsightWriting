@@ -54,6 +54,7 @@ Keywords often do not do a good job describing features of images. In these situ
 
 - [Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
 - [eBay - An Easier Way to Search eBay: Computer Vision with Find It On eBay and Image Search Is Now Live](https://www.ebayinc.com/stories/news/an-easier-way-to-search-ebay-computer-vision-with-find-it-on-ebay-and-image-search-is-now-live/)
+---
 
 ## Recommendation systems
 
@@ -113,10 +114,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0ODQwNTE1LC0xNTE1NzgyOTgzLC0xMT
-UwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQwMTcyNSwxMjA5MzIy
-NDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3MDY4OSwxMD
-YyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NTcxODAw
-LC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0NTQsLT
-ExOTU3NTQxNTYsMjAwNTY4MTE1OSwxNDI4NTYxNzNdfQ==
+eyJoaXN0b3J5IjpbMzY4Njk3MTUyLDczNDg0MDUxNSwtMTUxNT
+c4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2MzA0MDE3
+MjUsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEyMjg0NTg1Niw5ND
+U0NzA2ODksMTA2Mjg4MjQyNiw1Mzc2NTI4MjIsODEyNDgyMDQ2
+LDc5NjU3MTgwMCwtMTY0OTYwNDMxNSwtMjUzNTEzMTQ4LC0xNz
+IwNzAzNDU0LC0xMTk1NzU0MTU2LDIwMDU2ODExNTksMTQyODU2
+MTczXX0=
 -->
