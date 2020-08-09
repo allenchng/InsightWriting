@@ -68,10 +68,12 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 
 **Industry Examples**
 - [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
+
 - [Wayfair - Product Recommendations](https://www.youtube.com/watch?v=JST1FyQOmWs&list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB&index=14)
+
 - [eBay - How eBay is Advancing New Shopping, Browsing Models](https://www.ebayinc.com/stories/news/how-ebay-is-advancing-new-shopping-browsing-models/)
 
-- [https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/](https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/)
+- [Wayfair - ReCNet: Deep Learning based Cross-class Recommendations at Wayfair](https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/)
 ---
 
 ## Search Systems
@@ -116,7 +118,9 @@ Survival analysis measures the time until an event occurs.
 - [IBM - Survival Analysis - What is it? How can it solve my business problems?](https://community.ibm.com/community/user/datascience/blogs/kunal-sawarkar1/2019/07/17/survival-analysis-what-is-it-and-how-can-it-solve)
 ---
 
-## Organizational networks
+## Experimentation
+
+- [Wayfair - Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria](https://tech.wayfair.com/data-science/2019/10/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria/)
 
 ## Churn prediction
 
@@ -130,11 +134,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4MTA4OTgxLDE1MDgzODA0ODAsNTc2OT
-cxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3ODI5ODMs
-LTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMD
-kzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5
-LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
-E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
-NF19
+eyJoaXN0b3J5IjpbLTIyNDk0MDU5NywxNTA4MzgwNDgwLDU3Nj
+k3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1NzgyOTgz
+LC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQwMTcyNSwxMj
+A5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3MDY4
+OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NT
+cxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0
+NTRdfQ==
 -->
