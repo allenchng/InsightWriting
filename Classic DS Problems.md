@@ -106,7 +106,9 @@ Customer segmentation is the process of dividing customers into groups based on 
 
 - [MediaMath - Human-Readable Categorization of URLs/Apps](https://data-science-mediamath.ghost.io/human-readable-categorization-of-urls-apps/)
 - [Twitter - Understanding-the-people-behind-the-Tweet](https://blog.twitter.com/developer/en_us/topics/tips/2018/understanding-the-people-behind-the-Tweet.html)
+
 - [Dstillery - Artificial Intelligence on Human Behavior: New Insights Into Customer Segmentation](https://dstillery.com/artificial-intelligence-on-human-behavior-new-insights-into-customer-segmentation/)
+
 - [Dstillery - The Data Science Playbook for Super Bowl Marketing](https://dstillery.com/the-data-science-playbook-for-super-bowl-marketing/)
 ---
 
@@ -115,6 +117,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 Survival analysis measures the time until an event occurs.
 
 - [Tails.com - Using Survival Analysis to understand customer retention](https://youtu.be/aKZQUaNHYb0)
+
 - [IBM - Survival Analysis - What is it? How can it solve my business problems?](https://community.ibm.com/community/user/datascience/blogs/kunal-sawarkar1/2019/07/17/survival-analysis-what-is-it-and-how-can-it-solve)
 ---
 
@@ -134,11 +137,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDk0MDU5NywxNTA4MzgwNDgwLDU3Nj
-k3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1NzgyOTgz
-LC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQwMTcyNSwxMj
-A5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3MDY4
-OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NT
-cxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0
-NTRdfQ==
+eyJoaXN0b3J5IjpbLTE3ODAzODQ0OTEsLTIyNDk0MDU5NywxNT
+A4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1
+LC0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLD
+YzMDQwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1
+ODU2LDk0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MT
+I0ODIwNDYsNzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMx
+NDhdfQ==
 -->
