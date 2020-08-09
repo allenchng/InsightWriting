@@ -12,20 +12,13 @@ This document is a work in progress!
 
 ## Fraud detection
 
-Fraud detection is an approach to identify malicious and ill-intentioned transactions with a system.
+Fraud detection is an approach to identify malicious and ill-intentioned transactions with a system. Similarly, anomaly detection is an approach used to identify unusual patterns in data.
 
 ### Industry Examples
 
 - [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
 
 - [White Ops - The Methbot Operation](https://www.whiteops.com/methbot)
----
-
-## Anomaly detection
-
-Anomaly detection is an approach used to identify unusual patterns in data.
-
-### Industry Examples
 
 - [Oracle - Introduction to Anomaly Detection](https://blogs.oracle.com/datascience/introduction-to-anomaly-detection)
 
@@ -42,6 +35,8 @@ The process of determining how a good or service should be graded or priced.
 - [Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
 
 - [Wayfair - Measuring Price Effects](https://youtu.be/F7k-IqgxRcw?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
+
+
 ---
 
 ## Text summarization
@@ -143,11 +138,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyND
-k0MDU5NywxNTA4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIs
-NzM0ODQwNTE1LC0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNT
-UxOTA4NTgzLDYzMDQwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0
-MTksMTIyODQ1ODU2LDk0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNz
-Y1MjgyMiw4MTI0ODIwNDYsNzk2NTcxODAwLC0xNjQ5NjA0MzE1
+eyJoaXN0b3J5IjpbLTE2ODQ5MDIyMDUsMTY0NjQzMTYwMiw2MD
+U2MDQ3NDYsLTIyNDk0MDU5NywxNTA4MzgwNDgwLDU3Njk3MTgx
+NSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1NzgyOTgzLC0xMT
+UwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQwMTcyNSwxMjA5MzIy
+NDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3MDY4OSwxMD
+YyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NTcxODAw
 XX0=
 -->
