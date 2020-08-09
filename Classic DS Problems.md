@@ -7,10 +7,6 @@ This document is a work in progress!
 ### Industry Examples
 - [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 
-- [Concerto Health - Predicting Cardiac Adverse Events...](https://www.concertohealthai.com/blog/asco20-ai-model-predict-cardiac-ae)
-
-- [Concerto Health - Identifying Slow Progressors Among aNSCLC Patients](https://www.concertohealthai.com/blog/asco20-ai-model-predict-slow-progressors)
-
 - [Netflix - Optimizing Content Quality Control At Netflix with Predictive Modeling](https://netflixtechblog.com/optimizing-content-quality-control-at-netflix-with-predictive-modeling-712281658ab9)
 ---
 
@@ -147,11 +143,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUwOD
-M4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0MDUxNSwt
-MTUxNTc4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2Mz
-A0MDE3MjUsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEyMjg0NTg1
-Niw5NDU0NzA2ODksMTA2Mjg4MjQyNiw1Mzc2NTI4MjIsODEyND
-gyMDQ2LDc5NjU3MTgwMCwtMTY0OTYwNDMxNSwtMjUzNTEzMTQ4
+eyJoaXN0b3J5IjpbMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyND
+k0MDU5NywxNTA4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIs
+NzM0ODQwNTE1LC0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNT
+UxOTA4NTgzLDYzMDQwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0
+MTksMTIyODQ1ODU2LDk0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNz
+Y1MjgyMiw4MTI0ODIwNDYsNzk2NTcxODAwLC0xNjQ5NjA0MzE1
 XX0=
 -->
