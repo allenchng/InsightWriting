@@ -1,7 +1,6 @@
 # Data Science Problems in the Real World
 
-At Insight, we like to talk about the role of context. Many people leaving careers in academia understand 
-
+At Insight, we like to talk about the role of context. Many people leaving careers in academia understand the technical details of statistics or machine learning, but what they don't have is the context for how these ideas are applied. 
 
 This is a living document that is periodically updated. Please consider it a work in progress!
 
@@ -143,11 +142,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzk4MDYyOCwxMzEzODA2NjA0LC0xMj
-g0MzIzODk1LC0xNjg0OTAyMjA1LDE2NDY0MzE2MDIsNjA1NjA0
-NzQ2LC0yMjQ5NDA1OTcsMTUwODM4MDQ4MCw1NzY5NzE4MTUsMz
-Y4Njk3MTUyLDczNDg0MDUxNSwtMTUxNTc4Mjk4MywtMTE1MDM2
-NDAxMiwtMTU1MTkwODU4Myw2MzA0MDE3MjUsMTIwOTMyMjQyMi
-wxNjY3MjMwNDE5LDEyMjg0NTg1Niw5NDU0NzA2ODksMTA2Mjg4
-MjQyNl19
+eyJoaXN0b3J5IjpbLTEyMDk0NDE4MTYsMTMxMzgwNjYwNCwtMT
+I4NDMyMzg5NSwtMTY4NDkwMjIwNSwxNjQ2NDMxNjAyLDYwNTYw
+NDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0ODAsNTc2OTcxODE1LD
+M2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3ODI5ODMsLTExNTAz
+NjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMDkzMjI0Mj
+IsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5LDEwNjI4
+ODI0MjZdfQ==
 -->
