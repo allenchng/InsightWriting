@@ -76,8 +76,10 @@ Finding what you want with words.
 
 **Industry Examples**
 - [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
+
 - [eBay - At eBay, Machine Learning is Driving Innovative New Approaches to Search Experiences](https://www.ebayinc.com/stories/news/at-ebay-machine-learning-is-driving-innovative-new-approaches-to-search-experiences/)
--
+
+- [Wayfair - Bayesian Product Ranking at Wayfair](https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair/)
 ---
 
 ## Time series forecasting
@@ -124,11 +126,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTIwMDkzLDE1MDgzODA0ODAsNTc2OT
-cxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3ODI5ODMs
-LTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMD
-kzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5
-LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
-E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
-NF19
+eyJoaXN0b3J5IjpbMTcyODE0NDg1MiwxNTA4MzgwNDgwLDU3Nj
+k3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1NzgyOTgz
+LC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQwMTcyNSwxMj
+A5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3MDY4
+OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NT
+cxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0
+NTRdfQ==
 -->
