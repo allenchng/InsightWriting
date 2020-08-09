@@ -12,7 +12,7 @@ This is a living document that is periodically updated. Please consider it a wor
 
 Predicting classes or labels has multiple applications across industries. 
 
-### Industry Examples
+#### Industry Examples
 - [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 
 - [Netflix - Optimizing Content Quality Control At Netflix with Predictive Modeling](https://netflixtechblog.com/optimizing-content-quality-control-at-netflix-with-predictive-modeling-712281658ab9)
@@ -22,7 +22,7 @@ Predicting classes or labels has multiple applications across industries.
 
 Fraud detection is an approach to identify malicious and ill-intentioned transactions with a system. Similarly, anomaly detection is an approach used to identify unusual patterns in data.
 
-### Industry Examples
+#### Industry Examples
 
 - [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
 
@@ -39,7 +39,7 @@ Fraud detection is an approach to identify malicious and ill-intentioned transac
 
 Scoring and pricing models help determine how a good or service should be graded or priced. 
 
-### Industry Examples
+#### Industry Examples
 - [Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
 
 - [Wayfair - Measuring Price Effects](https://youtu.be/F7k-IqgxRcw?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
@@ -74,7 +74,7 @@ Keywords often do not do a good job describing features of images. In these situ
 
 Recommendation systems are the the technology that powers the selection of movies you see when you open Netflix or when Amazon suggests products to purchase.
 
-**Industry Examples**
+#### Industry Examples
 - [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
 
 - [Wayfair - Product Recommendations](https://www.youtube.com/watch?v=JST1FyQOmWs&list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB&index=14)
@@ -90,7 +90,7 @@ Recommendation systems are the the technology that powers the selection of movie
 
 Text search systems are ubiquitous in our lives. The challenge of finding what users want using keywords or expressions, however, is a deep field whose problems vary across domain.
 
-**Industry Examples**
+#### Industry Examples
 - [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
 
 - [eBay - At eBay, Machine Learning is Driving Innovative New Approaches to Search Experiences](https://www.ebayinc.com/stories/news/at-ebay-machine-learning-is-driving-innovative-new-approaches-to-search-experiences/)
@@ -132,6 +132,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 
 Survival analysis measures the time until an event occurs. It's an approach commonly used to solve healthcare and pharmaceutical problems, but also has applications in churn analytics.
 
+#### Industry Examples
 - [Tails.com - Using Survival Analysis to understand customer retention](https://youtu.be/aKZQUaNHYb0)
 
 - [IBM - Survival Analysis - What is it? How can it solve my business problems?](https://community.ibm.com/community/user/datascience/blogs/kunal-sawarkar1/2019/07/17/survival-analysis-what-is-it-and-how-can-it-solve)
@@ -141,6 +142,7 @@ Survival analysis measures the time until an event occurs. It's an approach comm
 
 Experimentation approaches are used commonly to improve products and their features. A/B testing is a form of experimentation that is commonly used with data science.
 
+#### Industry Examples
 - [Wayfair - Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria](https://tech.wayfair.com/data-science/2019/10/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria/)
 
 - [Uber - Mediation Modeling at Uber](https://www.youtube.com/watch?v=S2LxEYEs4Cg&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=8)
@@ -150,7 +152,7 @@ Experimentation approaches are used commonly to improve products and their featu
 
 Churn is when users leave your product or service. Understanding who is likely to leave your service is important for retargeting, as the cost of customer acquisition is typically much higher than the cost of customer retention.
 
-### Industry Examples
+#### Industry Examples
 
 - [Klaviyo - Predicting churn risk our new model](https://www.klaviyo.com/blog/predicting-churn-risk-our-new-model)
 ---
@@ -158,11 +160,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMD
-YxNTgxNzgzLDEzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5
-MDIyMDUsMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5Ny
-wxNTA4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQw
-NTE1LC0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NT
-gzLDYzMDQwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIy
-ODQ1ODU2XX0=
+eyJoaXN0b3J5IjpbMjY5MTI0Mjg2LDY2OTQyMTQzOCwtMTM0Mj
+E2MTc0NywtMjA2MTU4MTc4MywxMzEzODA2NjA0LC0xMjg0MzIz
+ODk1LC0xNjg0OTAyMjA1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC
+0yMjQ5NDA1OTcsMTUwODM4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3
+MTUyLDczNDg0MDUxNSwtMTUxNTc4Mjk4MywtMTE1MDM2NDAxMi
+wtMTU1MTkwODU4Myw2MzA0MDE3MjUsMTIwOTMyMjQyMiwxNjY3
+MjMwNDE5XX0=
 -->
