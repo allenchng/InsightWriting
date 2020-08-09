@@ -10,6 +10,8 @@ This is a living document that is periodically updated. Please consider it a wor
 
 ## Classification
 
+Predicting classes or labels has multiple applications across industries. 
+
 ### Industry Examples
 - [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 
@@ -149,11 +151,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODg5MzA4MCwtMjA2MTU4MTc4MywxMz
-EzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0OTAyMjA1LDE2NDY0
-MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUwODM4MDQ4MC
-w1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0MDUxNSwtMTUxNTc4
-Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2MzA0MDE3Mj
-UsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEyMjg0NTg1Niw5NDU0
-NzA2ODldfQ==
+eyJoaXN0b3J5IjpbLTEzNDIxNjE3NDcsLTIwNjE1ODE3ODMsMT
+MxMzgwNjYwNCwtMTI4NDMyMzg5NSwtMTY4NDkwMjIwNSwxNjQ2
+NDMxNjAyLDYwNTYwNDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0OD
+AsNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3
+ODI5ODMsLTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNz
+I1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1
+NDcwNjg5XX0=
 -->
