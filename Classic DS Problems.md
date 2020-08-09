@@ -48,6 +48,8 @@ Extracting structure from unstructured text data.
 #### Industry Examples
 
 - [Wayfair - Product Tagging](https://youtu.be/WBqRsRAnK28?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
+
+- [Wayfair - BERT Does Business: Implementing the BERT Model for Natural Language Processing at Wayfair](https://tech.wayfair.com/data-science/2019/11/bert-does-business-implementing-the-bert-model-for-natural-language-processing-at-wayfair/)
 ---
 
 ## Visual Search 
@@ -68,6 +70,8 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 - [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
 - [Wayfair - Product Recommendations](https://www.youtube.com/watch?v=JST1FyQOmWs&list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB&index=14)
 - [eBay - How eBay is Advancing New Shopping, Browsing Models](https://www.ebayinc.com/stories/news/how-ebay-is-advancing-new-shopping-browsing-models/)
+
+- [https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/](https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/)
 ---
 
 ## Search Systems
@@ -126,11 +130,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODE0NDg1MiwxNTA4MzgwNDgwLDU3Nj
-k3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1NzgyOTgz
-LC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQwMTcyNSwxMj
-A5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3MDY4
-OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIwNDYsNzk2NT
-cxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMxNDgsLTE3MjA3MDM0
-NTRdfQ==
+eyJoaXN0b3J5IjpbMjY4MTA4OTgxLDE1MDgzODA0ODAsNTc2OT
+cxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3ODI5ODMs
+LTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMD
+kzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5
+LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0Niw3OTY1Nz
+E4MDAsLTE2NDk2MDQzMTUsLTI1MzUxMzE0OCwtMTcyMDcwMzQ1
+NF19
 -->
