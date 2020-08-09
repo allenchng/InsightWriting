@@ -55,6 +55,8 @@ Text summarization is the process of extracting structure from unstructured text
 - [Wayfair - Product Tagging](https://youtu.be/WBqRsRAnK28?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 
 - [Wayfair - BERT Does Business: Implementing the BERT Model for Natural Language Processing at Wayfair](https://tech.wayfair.com/data-science/2019/11/bert-does-business-implementing-the-bert-model-for-natural-language-processing-at-wayfair/)
+
+- [Uber - Learning Word2Vec Embeddings for Hexcluster Generation](https://www.youtube.com/watch?v=kRqFn7jAsoo&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=3)
 ---
 
 ## Visual Search 
@@ -156,7 +158,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MDYyOTEzLC0xMzQyMTYxNzQ3LC0yMD
+eyJoaXN0b3J5IjpbNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMD
 YxNTgxNzgzLDEzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5
 MDIyMDUsMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5Ny
 wxNTA4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQw
