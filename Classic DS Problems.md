@@ -81,9 +81,9 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 - [Wayfair - ReCNet: Deep Learning based Cross-class Recommendations at Wayfair](https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/)
 ---
 
-## Search Systems
+## Text Search Systems
 
-Finding what you want with words.
+Text search systems are ubiquitous in our lives. The challenge of finding what users want using keywords or expressions, however, is a deep field whose problems are 
 
 **Industry Examples**
 - [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
@@ -150,7 +150,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2Mzc3NTczLC0yMDYxNTgxNzgzLDEzMT
+eyJoaXN0b3J5IjpbNzU2MTg4MTgzLC0yMDYxNTgxNzgzLDEzMT
 M4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMTY0NjQz
 MTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4MzgwNDgwLD
 U3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1Nzgy
