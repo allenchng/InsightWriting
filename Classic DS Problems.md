@@ -10,7 +10,7 @@ This document is a work in progress!
 - [Netflix - Optimizing Content Quality Control At Netflix with Predictive Modeling](https://netflixtechblog.com/optimizing-content-quality-control-at-netflix-with-predictive-modeling-712281658ab9)
 ---
 
-## Fraud detection
+## Fraud and Anomaly Detection
 
 Fraud detection is an approach to identify malicious and ill-intentioned transactions with a system. Similarly, anomaly detection is an approach used to identify unusual patterns in data.
 
@@ -39,7 +39,7 @@ The process of determining how a good or service should be graded or priced.
 
 ---
 
-## Text summarization
+## Text Summarization
 
 Extracting structure from unstructured text data.
 
@@ -61,7 +61,7 @@ Keywords often do not do a good job describing features of images. In these situ
 - [eBay - An Easier Way to Search eBay: Computer Vision with Find It On eBay and Image Search Is Now Live](https://www.ebayinc.com/stories/news/an-easier-way-to-search-ebay-computer-vision-with-find-it-on-ebay-and-image-search-is-now-live/)
 ---
 
-## Recommendation systems
+## Recommendation Systems
 
 The technology that powers the movies you see when you open Netflix or when Amazon suggests products to purchase.
 
@@ -87,7 +87,7 @@ Finding what you want with words.
 - [Wayfair - Bayesian Product Ranking at Wayfair](https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair/)
 ---
 
-## Time series forecasting
+## Time Series Forecasting
 
 Forecasting involves using historical data to estimate future events. 
 
@@ -100,7 +100,7 @@ Forecasting involves using historical data to estimate future events.
 - [Walmart Labs - Data Science In Walmart Supply Chain Technology](https://medium.com/walmartglobaltech/data-science-in-walmart-supply-chain-technology-bdb5d6b4105c)
 ---
 
-## Customer segmentation
+## Customer Segmentation
 
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
 
@@ -115,7 +115,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 - [Dstillery - The Data Science Playbook for Super Bowl Marketing](https://dstillery.com/the-data-science-playbook-for-super-bowl-marketing/)
 ---
 
-## Survival analysis
+## Survival Analysis
 
 Survival analysis measures the time until an event occurs.
 
@@ -128,7 +128,7 @@ Survival analysis measures the time until an event occurs.
 
 - [Wayfair - Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria](https://tech.wayfair.com/data-science/2019/10/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria/)
 
-## Churn prediction
+## Churn Prediction
 
 Churn is when users leave your product or service. Understanding who is likely to leave your service is important for retargeting, as the cost of customer acquisition is typically much higher than the cost of customer retention.
 
@@ -140,11 +140,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTQ5MzMwOSwtMTY4NDkwMjIwNSwxNj
-Q2NDMxNjAyLDYwNTYwNDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0
-ODAsNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MT
-U3ODI5ODMsLTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAx
-NzI1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOT
-Q1NDcwNjg5LDEwNjI4ODI0MjYsNTM3NjUyODIyLDgxMjQ4MjA0
-Nl19
+eyJoaXN0b3J5IjpbLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMT
+Y0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4Mzgw
+NDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNT
+E1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQw
+MTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LD
+k0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIw
+NDZdfQ==
 -->
