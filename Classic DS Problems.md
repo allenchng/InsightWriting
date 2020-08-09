@@ -1,6 +1,8 @@
 # Data Science Problems in the Real World
 
-This document is a work in progress!
+One challenge that I encountered when transitioning into a career in data science and a challenge I continued to observe when helping others make tra
+
+This is a living document that is periodically updated. Please consider it a work in progress!
 
 ## Classification
 
@@ -140,11 +142,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMT
-Y0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4Mzgw
-NDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNT
-E1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQw
-MTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LD
-k0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MTI0ODIw
-NDZdfQ==
+eyJoaXN0b3J5IjpbMzc5MTAwMDE1LC0xMjg0MzIzODk1LC0xNj
+g0OTAyMjA1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1
+OTcsMTUwODM4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3MTUyLDczND
+g0MDUxNSwtMTUxNTc4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkw
+ODU4Myw2MzA0MDE3MjUsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LD
+EyMjg0NTg1Niw5NDU0NzA2ODksMTA2Mjg4MjQyNiw1Mzc2NTI4
+MjJdfQ==
 -->
