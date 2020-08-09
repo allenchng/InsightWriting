@@ -141,7 +141,8 @@ Experimentation approaches are used commonly to improve products and their featu
 
 - [Wayfair - Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria](https://tech.wayfair.com/data-science/2019/10/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria/)
 
-- [Uber - # Mediation Modeling at Uber](https://www.youtube.com/watch?v=S2LxEYEs4Cg&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=8)
+- [Uber - Mediation Modeling at Uber](https://www.youtube.com/watch?v=S2LxEYEs4Cg&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=8)
+---
 
 ## Churn Prediction
 
@@ -155,7 +156,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMzc0NTkxLC0xMzQyMTYxNzQ3LC0yMD
+eyJoaXN0b3J5IjpbNTY5MDYyOTEzLC0xMzQyMTYxNzQ3LC0yMD
 YxNTgxNzgzLDEzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5
 MDIyMDUsMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5Ny
 wxNTA4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQw
