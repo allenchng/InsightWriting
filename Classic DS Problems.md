@@ -80,6 +80,8 @@ Recommendation systems are the the technology that powers the selection of movie
 - [eBay - How eBay is Advancing New Shopping, Browsing Models](https://www.ebayinc.com/stories/news/how-ebay-is-advancing-new-shopping-browsing-models/)
 
 - [Wayfair - ReCNet: Deep Learning based Cross-class Recommendations at Wayfair](https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/)
+
+- [https://www.youtube.com/watch?v=UWDVOQq1uzQ&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=6](https://www.youtube.com/watch?v=UWDVOQq1uzQ&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=6)
 ---
 
 ## Text Search Systems
@@ -151,11 +153,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIxNjE3NDcsLTIwNjE1ODE3ODMsMT
-MxMzgwNjYwNCwtMTI4NDMyMzg5NSwtMTY4NDkwMjIwNSwxNjQ2
-NDMxNjAyLDYwNTYwNDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0OD
-AsNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3
-ODI5ODMsLTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNz
-I1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1
-NDcwNjg5XX0=
+eyJoaXN0b3J5IjpbMTUxMzkxODQ5MywtMTM0MjE2MTc0NywtMj
+A2MTU4MTc4MywxMzEzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0
+OTAyMjA1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1OT
+csMTUwODM4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0
+MDUxNSwtMTUxNTc4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwOD
+U4Myw2MzA0MDE3MjUsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEy
+Mjg0NTg1Nl19
 -->
