@@ -104,6 +104,8 @@ Forecasting involves using historical data to estimate future events.
 - [Twitter- Do more with Twitter data: Evaluating time series and identifying trends](https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series-and-identifying-trends.html)
 
 - [Walmart Labs - Data Science In Walmart Supply Chain Technology](https://medium.com/walmartglobaltech/data-science-in-walmart-supply-chain-technology-bdb5d6b4105c)
+
+- [Nielsen - Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape# USING MACHINE LEARNING TO PREDICT FUTURE TV RATINGS IN AN EVOLVING MEDIA LANDSCAPE](https://www.nielsen.com/us/en/insights/article/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/)
 ---
 
 ## Customer Segmentation
@@ -146,11 +148,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE1ODE3ODMsMTMxMzgwNjYwNCwtMT
-I4NDMyMzg5NSwtMTY4NDkwMjIwNSwxNjQ2NDMxNjAyLDYwNTYw
-NDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0ODAsNTc2OTcxODE1LD
-M2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3ODI5ODMsLTExNTAz
-NjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNzI1LDEyMDkzMjI0Mj
-IsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1NDcwNjg5LDEwNjI4
-ODI0MjZdfQ==
+eyJoaXN0b3J5IjpbLTEwODAyMTExMTksLTIwNjE1ODE3ODMsMT
+MxMzgwNjYwNCwtMTI4NDMyMzg5NSwtMTY4NDkwMjIwNSwxNjQ2
+NDMxNjAyLDYwNTYwNDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0OD
+AsNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3
+ODI5ODMsLTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNz
+I1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1
+NDcwNjg5XX0=
 -->
