@@ -105,7 +105,7 @@ Forecasting involves using historical data to estimate future events.
 
 - [Walmart Labs - Data Science In Walmart Supply Chain Technology](https://medium.com/walmartglobaltech/data-science-in-walmart-supply-chain-technology-bdb5d6b4105c)
 
-- [Nielsen - Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape# USING MACHINE LEARNING TO PREDICT FUTURE TV RATINGS IN AN EVOLVING MEDIA LANDSCAPE](https://www.nielsen.com/us/en/insights/article/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/)
+- [Nielsen - Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape](https://www.nielsen.com/us/en/insights/article/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/)
 ---
 
 ## Customer Segmentation
@@ -125,7 +125,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 
 ## Survival Analysis
 
-Survival analysis measures the time until an event occurs.
+Survival analysis measures the time until an event occurs. It's an approach commonly used to solve healthcare and pharmaceutical problems, but also has applications in churn analytics.
 
 - [Tails.com - Using Survival Analysis to understand customer retention](https://youtu.be/aKZQUaNHYb0)
 
@@ -148,11 +148,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAyMTExMTksLTIwNjE1ODE3ODMsMT
-MxMzgwNjYwNCwtMTI4NDMyMzg5NSwtMTY4NDkwMjIwNSwxNjQ2
-NDMxNjAyLDYwNTYwNDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0OD
-AsNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3
-ODI5ODMsLTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMwNDAxNz
-I1LDEyMDkzMjI0MjIsMTY2NzIzMDQxOSwxMjI4NDU4NTYsOTQ1
-NDcwNjg5XX0=
+eyJoaXN0b3J5IjpbMTIyODM1MTI1LC0yMDYxNTgxNzgzLDEzMT
+M4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMTY0NjQz
+MTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4MzgwNDgwLD
+U3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1Nzgy
+OTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQwMTcyNS
+wxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3
+MDY4OV19
 -->
