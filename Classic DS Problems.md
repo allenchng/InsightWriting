@@ -134,6 +134,8 @@ Survival analysis measures the time until an event occurs. It's an approach comm
 
 ## Experimentation
 
+Experimentation approaches are used commonly to improve products and their features. A/B testing is a form of experimentation that is commonly used with data science.
+
 - [Wayfair - Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria](https://tech.wayfair.com/data-science/2019/10/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria/)
 
 ## Churn Prediction
@@ -148,7 +150,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODM1MTI1LC0yMDYxNTgxNzgzLDEzMT
+eyJoaXN0b3J5IjpbMjQ2Mzc3NTczLC0yMDYxNTgxNzgzLDEzMT
 M4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMTY0NjQz
 MTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4MzgwNDgwLD
 U3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1Nzgy
