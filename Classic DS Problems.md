@@ -81,7 +81,7 @@ Recommendation systems are the the technology that powers the selection of movie
 
 - [Wayfair - ReCNet: Deep Learning based Cross-class Recommendations at Wayfair](https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/)
 
-- [https://www.youtube.com/watch?v=UWDVOQq1uzQ&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=6](https://www.youtube.com/watch?v=UWDVOQq1uzQ&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=6)
+- [Uber - Food Discovery with Uber Eats: Recommending for the Marketplace](https://www.youtube.com/watch?v=UWDVOQq1uzQ&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=6)
 ---
 
 ## Text Search Systems
@@ -141,6 +141,8 @@ Experimentation approaches are used commonly to improve products and their featu
 
 - [Wayfair - Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria](https://tech.wayfair.com/data-science/2019/10/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria/)
 
+- [Uber - # Mediation Modeling at Uber](https://www.youtube.com/watch?v=S2LxEYEs4Cg&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=8)
+
 ## Churn Prediction
 
 Churn is when users leave your product or service. Understanding who is likely to leave your service is important for retargeting, as the cost of customer acquisition is typically much higher than the cost of customer retention.
@@ -153,11 +155,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzkxODQ5MywtMTM0MjE2MTc0NywtMj
-A2MTU4MTc4MywxMzEzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0
-OTAyMjA1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1OT
-csMTUwODM4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0
-MDUxNSwtMTUxNTc4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwOD
-U4Myw2MzA0MDE3MjUsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEy
-Mjg0NTg1Nl19
+eyJoaXN0b3J5IjpbNTgyMzc0NTkxLC0xMzQyMTYxNzQ3LC0yMD
+YxNTgxNzgzLDEzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5
+MDIyMDUsMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5Ny
+wxNTA4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQw
+NTE1LC0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NT
+gzLDYzMDQwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIy
+ODQ1ODU2XX0=
 -->
