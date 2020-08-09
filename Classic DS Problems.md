@@ -6,8 +6,11 @@ This document is a work in progress!
 
 ### Industry Examples
 - [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
+
 - [Concerto Health - Predicting Cardiac Adverse Events...](https://www.concertohealthai.com/blog/asco20-ai-model-predict-cardiac-ae)
+
 - [Concerto Health - Identifying Slow Progressors Among aNSCLC Patients](https://www.concertohealthai.com/blog/asco20-ai-model-predict-slow-progressors)
+
 - [Netflix - Optimizing Content Quality Control At Netflix with Predictive Modeling](https://netflixtechblog.com/optimizing-content-quality-control-at-netflix-with-predictive-modeling-712281658ab9)
 ---
 
@@ -18,6 +21,7 @@ Fraud detection is an approach to identify malicious and ill-intentioned transac
 ### Industry Examples
 
 - [Socure - How Machine Learning is Reinventing Identity Verification](https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification)
+
 - [White Ops - The Methbot Operation](https://www.whiteops.com/methbot)
 ---
 
@@ -28,7 +32,9 @@ Anomaly detection is an approach used to identify unusual patterns in data.
 ### Industry Examples
 
 - [Oracle - Introduction to Anomaly Detection](https://blogs.oracle.com/datascience/introduction-to-anomaly-detection)
+
 - [Datadog - Introducing Anomaly Detection](https://www.datadoghq.com/blog/introducing-anomaly-detection-datadog/)
+
 - [Datadog - Robust Statistical Distances for Machine Learning](https://www.datadoghq.com/blog/engineering/robust-statistical-distances-for-machine-learning/)
 ---
 
@@ -38,6 +44,7 @@ The process of determining how a good or service should be graded or priced.
 
 ### Industry Examples
 - [Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
+
 - [Wayfair - Measuring Price Effects](https://youtu.be/F7k-IqgxRcw?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 ---
 
@@ -59,6 +66,7 @@ Keywords often do not do a good job describing features of images. In these situ
 #### Industry examples
 
 - [Pinterest - Visual Search at Pinterest](https://dl.acm.org/doi/10.1145/2783258.2788621)
+
 - [eBay - An Easier Way to Search eBay: Computer Vision with Find It On eBay and Image Search Is Now Live](https://www.ebayinc.com/stories/news/an-easier-way-to-search-ebay-computer-vision-with-find-it-on-ebay-and-image-search-is-now-live/)
 ---
 
@@ -95,7 +103,8 @@ Forecasting involves using historical data to estimate future events.
 #### Industry Examples
 
 - [Uber - Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/)
-- [Twitter- Do more with Twitter data: Evaluating time series and identifying trends](https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series-and-identifying-trends.html))
+
+- [Twitter- Do more with Twitter data: Evaluating time series and identifying trends](https://blog.twitter.com/developer/en_us/topics/tips/2018/evaluating-time-series-and-identifying-trends.html)
 ---
 
 ## Customer segmentation
@@ -105,6 +114,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 #### Industry examples
 
 - [MediaMath - Human-Readable Categorization of URLs/Apps](https://data-science-mediamath.ghost.io/human-readable-categorization-of-urls-apps/)
+
 - [Twitter - Understanding-the-people-behind-the-Tweet](https://blog.twitter.com/developer/en_us/topics/tips/2018/understanding-the-people-behind-the-Tweet.html)
 
 - [Dstillery - Artificial Intelligence on Human Behavior: New Insights Into Customer Segmentation](https://dstillery.com/artificial-intelligence-on-human-behavior-new-insights-into-customer-segmentation/)
@@ -137,11 +147,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAzODQ0OTEsLTIyNDk0MDU5NywxNT
-A4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1
-LC0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLD
-YzMDQwMTcyNSwxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1
-ODU2LDk0NTQ3MDY4OSwxMDYyODgyNDI2LDUzNzY1MjgyMiw4MT
-I0ODIwNDYsNzk2NTcxODAwLC0xNjQ5NjA0MzE1LC0yNTM1MTMx
-NDhdfQ==
+eyJoaXN0b3J5IjpbNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUwOD
+M4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0MDUxNSwt
+MTUxNTc4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2Mz
+A0MDE3MjUsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEyMjg0NTg1
+Niw5NDU0NzA2ODksMTA2Mjg4MjQyNiw1Mzc2NTI4MjIsODEyND
+gyMDQ2LDc5NjU3MTgwMCwtMTY0OTYwNDMxNSwtMjUzNTEzMTQ4
+XX0=
 -->
