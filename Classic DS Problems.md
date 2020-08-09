@@ -35,19 +35,18 @@ Fraud detection is an approach to identify malicious and ill-intentioned transac
 
 ## Scoring / Pricing
 
-The process of determining how a good or service should be graded or priced. 
+Scoring and pricing models help determine how a good or service should be graded or priced. 
 
 ### Industry Examples
 - [Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
 
 - [Wayfair - Measuring Price Effects](https://youtu.be/F7k-IqgxRcw?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 
-
 ---
 
 ## Text Summarization
 
-Extracting structure from unstructured text data.
+Text summarization is the process of extracting structure from unstructured text data.
 
 #### Industry Examples
 
@@ -58,7 +57,7 @@ Extracting structure from unstructured text data.
 
 ## Visual Search 
 
-Keywords often do not do a good job describing features of images. In these situations, visual search is a necessary process.
+Keywords often do not do a good job describing features of images. In these situations, visual search can help capture latent features that words do not identify.
 
 #### Industry examples
 
@@ -69,7 +68,7 @@ Keywords often do not do a good job describing features of images. In these situ
 
 ## Recommendation Systems
 
-The technology that powers the movies you see when you open Netflix or when Amazon suggests products to purchase.
+Recommendation systems are the the technology that powers the selection of movies you see when you open Netflix or when Amazon suggests products to purchase.
 
 **Industry Examples**
 - [The New York Times - How The New York Times is Experimenting with Recommendation Algorithms](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
@@ -83,7 +82,7 @@ The technology that powers the movies you see when you open Netflix or when Amaz
 
 ## Text Search Systems
 
-Text search systems are ubiquitous in our lives. The challenge of finding what users want using keywords or expressions, however, is a deep field whose problems are 
+Text search systems are ubiquitous in our lives. The challenge of finding what users want using keywords or expressions, however, is a deep field whose problems vary across domain.
 
 **Industry Examples**
 - [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
@@ -150,11 +149,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MTg4MTgzLC0yMDYxNTgxNzgzLDEzMT
-M4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMTY0NjQz
-MTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4MzgwNDgwLD
-U3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1Nzgy
-OTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYzMDQwMTcyNS
-wxMjA5MzIyNDIyLDE2NjcyMzA0MTksMTIyODQ1ODU2LDk0NTQ3
-MDY4OV19
+eyJoaXN0b3J5IjpbMTc4ODg5MzA4MCwtMjA2MTU4MTc4MywxMz
+EzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0OTAyMjA1LDE2NDY0
+MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUwODM4MDQ4MC
+w1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0MDUxNSwtMTUxNTc4
+Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2MzA0MDE3Mj
+UsMTIwOTMyMjQyMiwxNjY3MjMwNDE5LDEyMjg0NTg1Niw5NDU0
+NzA2ODldfQ==
 -->
