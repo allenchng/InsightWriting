@@ -1,7 +1,5 @@
 # Data Science Problems in the Real World
 
-Maintained by Allen Chang
-
 ## Why does this document exist?
 
 At Insight, we like to talk about the role of context. Many people leaving careers in academia understand the technical details of statistics or machine learning, but what they don't have is the context for how these ideas are applied. The purpose of this document is to keep a running list of articles / videos to build context for how machine learning is applied across many different industries and many different problems.
@@ -160,11 +158,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MTI0Mjg2LDY2OTQyMTQzOCwtMTM0Mj
-E2MTc0NywtMjA2MTU4MTc4MywxMzEzODA2NjA0LC0xMjg0MzIz
-ODk1LC0xNjg0OTAyMjA1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC
-0yMjQ5NDA1OTcsMTUwODM4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3
-MTUyLDczNDg0MDUxNSwtMTUxNTc4Mjk4MywtMTE1MDM2NDAxMi
-wtMTU1MTkwODU4Myw2MzA0MDE3MjUsMTIwOTMyMjQyMiwxNjY3
-MjMwNDE5XX0=
+eyJoaXN0b3J5IjpbLTEyMDU3MDUzNDQsMjY5MTI0Mjg2LDY2OT
+QyMTQzOCwtMTM0MjE2MTc0NywtMjA2MTU4MTc4MywxMzEzODA2
+NjA0LC0xMjg0MzIzODk1LC0xNjg0OTAyMjA1LDE2NDY0MzE2MD
+IsNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUwODM4MDQ4MCw1NzY5
+NzE4MTUsMzY4Njk3MTUyLDczNDg0MDUxNSwtMTUxNTc4Mjk4My
+wtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2MzA0MDE3MjUsMTIw
+OTMyMjQyMl19
 -->
