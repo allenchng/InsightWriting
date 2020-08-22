@@ -9,8 +9,6 @@ At Insight, we like to talk about the role of context. Many people leaving caree
 When we've sent fellows examples of projects in the past, we've noticed it tends to stifle creativity and lead to a number of copycat projects. We'd like all of you to see what relevant projects to industry look like and identify your own unique applications or pain points.
 
 
-- [Netflix - Optimizing Content Quality Control At Netflix with Predictive Modeling](https://netflixtechblog.com/optimizing-content-quality-control-at-netflix-with-predictive-modeling-712281658ab9)
----
 
 ## Fraud and Anomaly Detection
 
@@ -39,6 +37,8 @@ Scoring and pricing models help determine how a good or service should be graded
 - [Wayfair - Measuring Price Effects](https://youtu.be/F7k-IqgxRcw?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 
 - [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
+
+- [Netflix - Optimizing Content Quality Control At Netflix with Predictive Modeling](https://netflixtechblog.com/optimizing-content-quality-control-at-netflix-with-predictive-modeling-712281658ab9)
 ---
 
 ## Text Summarization
@@ -155,11 +155,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzI4MTk4NiwtMTIwNTcwNTM0NCwyNj
-kxMjQyODYsNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMDYxNTgx
-NzgzLDEzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMD
-UsMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4
-MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC
-0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYz
-MDQwMTcyNV19
+eyJoaXN0b3J5IjpbLTE0ODA5MDEwOTEsLTEyMDU3MDUzNDQsMj
+Y5MTI0Mjg2LDY2OTQyMTQzOCwtMTM0MjE2MTc0NywtMjA2MTU4
+MTc4MywxMzEzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0OTAyMj
+A1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUw
+ODM4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0MDUxNS
+wtMTUxNTc4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2
+MzA0MDE3MjVdfQ==
 -->
