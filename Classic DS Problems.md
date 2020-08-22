@@ -8,12 +8,6 @@ At Insight, we like to talk about the role of context. Many people leaving caree
 
 When we've sent fellows examples of projects in the past, we've noticed it tends to stifle creativity and lead to a number of copycat projects. We'd like all of you to see what relevant projects to industry look like and identify your own unique applications or pain points.
 
-## Classification
-
-Predicting classes or labels has multiple applications across industries. 
-
-#### Industry Examples
-- [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 
 - [Netflix - Optimizing Content Quality Control At Netflix with Predictive Modeling](https://netflixtechblog.com/optimizing-content-quality-control-at-netflix-with-predictive-modeling-712281658ab9)
 ---
@@ -44,6 +38,7 @@ Scoring and pricing models help determine how a good or service should be graded
 
 - [Wayfair - Measuring Price Effects](https://youtu.be/F7k-IqgxRcw?list=PLlkEXA5QpKRqrkbQP1pcfzsIxMsaI-0ZB)
 
+- [The New York Times - How Does This Article Make You Feel?](https://open.nytimes.com/how-does-this-article-make-you-feel-4684e5e9c47)
 ---
 
 ## Text Summarization
@@ -160,7 +155,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDY2Mzg4MCwtMTIwNTcwNTM0NCwyNj
+eyJoaXN0b3J5IjpbMTc2NzI4MTk4NiwtMTIwNTcwNTM0NCwyNj
 kxMjQyODYsNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMDYxNTgx
 NzgzLDEzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMD
 UsMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4
