@@ -88,8 +88,6 @@ Recommendation systems are the the technology that powers the selection of movie
 
 - [eBay - How eBay is Advancing New Shopping, Browsing Models](https://www.ebayinc.com/stories/news/how-ebay-is-advancing-new-shopping-browsing-models/)
 
-- [Wayfair - ReCNet: Deep Learning based Cross-class Recommendations at Wayfair](https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/)
-
 - [Uber - Food Discovery with Uber Eats: Recommending for the Marketplace](https://www.youtube.com/watch?v=UWDVOQq1uzQ&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=6)
 
 - [Etsy - Personalized Recommendations at Etsy](https://codeascraft.com/2014/11/17/personalized-recommendations-at-etsy/)
@@ -98,7 +96,7 @@ Recommendation systems are the the technology that powers the selection of movie
 
 ## Time Series Forecasting
 
-Forecasting involves using historical data to estimate future events. 
+Forecasting involves using historical data to estimate future events. Companies use forecasting to make logistical decisions, 
 
 #### Industry Examples
 
@@ -162,11 +160,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzIwNzYwMywtMjY4NjE5OTY4LDYwNT
-U0ODY5NywtMTI2ODQzNTEzNSwtMTIwNTcwNTM0NCwyNjkxMjQy
-ODYsNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMDYxNTgxNzgzLD
-EzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMTY0
-NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4MzgwND
-gwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1
-NzgyOTgzXX0=
+eyJoaXN0b3J5IjpbNzc5Nzk5OTQ0LC0yNjg2MTk5NjgsNjA1NT
+Q4Njk3LC0xMjY4NDM1MTM1LC0xMjA1NzA1MzQ0LDI2OTEyNDI4
+Niw2Njk0MjE0MzgsLTEzNDIxNjE3NDcsLTIwNjE1ODE3ODMsMT
+MxMzgwNjYwNCwtMTI4NDMyMzg5NSwtMTY4NDkwMjIwNSwxNjQ2
+NDMxNjAyLDYwNTYwNDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0OD
+AsNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3
+ODI5ODNdfQ==
 -->
