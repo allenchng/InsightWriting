@@ -52,6 +52,18 @@ Text summarization is the process of extracting structure from unstructured text
 - [Uber - Learning Word2Vec Embeddings for Hexcluster Generation](https://www.youtube.com/watch?v=kRqFn7jAsoo&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=3)
 ---
 
+## Text Search Systems
+
+Text search systems are ubiquitous in our lives. The challenge of finding what users want using keywords or expressions, however, is a deep field whose problems vary across domain.
+
+#### Industry Examples
+- [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
+
+- [eBay - At eBay, Machine Learning is Driving Innovative New Approaches to Search Experiences](https://www.ebayinc.com/stories/news/at-ebay-machine-learning-is-driving-innovative-new-approaches-to-search-experiences/)
+
+- [Wayfair - Bayesian Product Ranking at Wayfair](https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair/)
+---
+
 ## Visual Search 
 
 Keywords often do not do a good job describing features of images. In these situations, visual search can help capture latent features that words do not identify.
@@ -82,18 +94,6 @@ Recommendation systems are the the technology that powers the selection of movie
 
 - [Etsy - Personalized Recommendations at Etsy](https://codeascraft.com/2014/11/17/personalized-recommendations-at-etsy/)
 
----
-
-## Text Search Systems
-
-Text search systems are ubiquitous in our lives. The challenge of finding what users want using keywords or expressions, however, is a deep field whose problems vary across domain.
-
-#### Industry Examples
-- [Amazon - Building an NLP-powered search index with Amazon Textract and Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
-
-- [eBay - At eBay, Machine Learning is Driving Innovative New Approaches to Search Experiences](https://www.ebayinc.com/stories/news/at-ebay-machine-learning-is-driving-innovative-new-approaches-to-search-experiences/)
-
-- [Wayfair - Bayesian Product Ranking at Wayfair](https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair/)
 ---
 
 ## Time Series Forecasting
@@ -162,7 +162,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDEwNzIxNSwtMjY4NjE5OTY4LDYwNT
+eyJoaXN0b3J5IjpbMTQ5NzIwNzYwMywtMjY4NjE5OTY4LDYwNT
 U0ODY5NywtMTI2ODQzNTEzNSwtMTIwNTcwNTM0NCwyNjkxMjQy
 ODYsNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMDYxNTgxNzgzLD
 EzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMTY0
