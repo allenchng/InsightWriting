@@ -6,8 +6,7 @@ At Insight, we like to talk about the role of context. Many people leaving caree
 
 ## Where are the examples of Insight projects?
 
-When we've sent fellows examples of projects in the past, we've noticed it tends to stifle creativity and lead to a number of copycat projects. We'd like all of you to see what relevant projects to industry look like and identify your own unique applications or pain points.
-
+When we've sent fellows examples of projects in the past, we've noticed it tends to stifle creativity and lead to a number of copycat projects. We'd like all of you to see what relevant projects in industry look like and identify your own unique applications or pain points.
 
 
 ## Fraud and Anomaly Detection
@@ -164,11 +163,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODYxOTk2OCw2MDU1NDg2OTcsLTEyNj
-g0MzUxMzUsLTEyMDU3MDUzNDQsMjY5MTI0Mjg2LDY2OTQyMTQz
-OCwtMTM0MjE2MTc0NywtMjA2MTU4MTc4MywxMzEzODA2NjA0LC
-0xMjg0MzIzODk1LC0xNjg0OTAyMjA1LDE2NDY0MzE2MDIsNjA1
-NjA0NzQ2LC0yMjQ5NDA1OTcsMTUwODM4MDQ4MCw1NzY5NzE4MT
-UsMzY4Njk3MTUyLDczNDg0MDUxNSwtMTUxNTc4Mjk4MywtMTE1
-MDM2NDAxMl19
+eyJoaXN0b3J5IjpbLTQwNTkyNzU0OCwtMjY4NjE5OTY4LDYwNT
+U0ODY5NywtMTI2ODQzNTEzNSwtMTIwNTcwNTM0NCwyNjkxMjQy
+ODYsNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMDYxNTgxNzgzLD
+EzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMTY0
+NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4MzgwND
+gwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC0xNTE1
+NzgyOTgzXX0=
 -->
