@@ -81,6 +81,8 @@ Recommendation systems are the the technology that powers the selection of movie
 - [Wayfair - ReCNet: Deep Learning based Cross-class Recommendations at Wayfair](https://tech.wayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/)
 
 - [Uber - Food Discovery with Uber Eats: Recommending for the Marketplace](https://www.youtube.com/watch?v=UWDVOQq1uzQ&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=6)
+
+Personalized Recommendations at Etsy
 ---
 
 ## Text Search Systems
@@ -157,11 +159,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxMDA5NTQ3LC0xMjA1NzA1MzQ0LDI2OT
-EyNDI4Niw2Njk0MjE0MzgsLTEzNDIxNjE3NDcsLTIwNjE1ODE3
-ODMsMTMxMzgwNjYwNCwtMTI4NDMyMzg5NSwtMTY4NDkwMjIwNS
-wxNjQ2NDMxNjAyLDYwNTYwNDc0NiwtMjI0OTQwNTk3LDE1MDgz
-ODA0ODAsNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLT
-E1MTU3ODI5ODMsLTExNTAzNjQwMTIsLTE1NTE5MDg1ODMsNjMw
-NDAxNzI1XX0=
+eyJoaXN0b3J5IjpbLTEwMzQ2NjM1ODksLTEyMDU3MDUzNDQsMj
+Y5MTI0Mjg2LDY2OTQyMTQzOCwtMTM0MjE2MTc0NywtMjA2MTU4
+MTc4MywxMzEzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0OTAyMj
+A1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUw
+ODM4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0MDUxNS
+wtMTUxNTc4Mjk4MywtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2
+MzA0MDE3MjVdfQ==
 -->
