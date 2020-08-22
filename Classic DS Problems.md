@@ -29,7 +29,7 @@ Fraud detection is an approach to identify malicious and ill-intentioned transac
 
 ## Scoring / Pricing
 
-Scoring and pricing models help determine how a good or service should be graded or priced. 
+Scoring and pricing models help determine how a good or service should be graded or priced. Scoring can be continuous or binary. 
 
 #### Industry Examples
 - [Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
@@ -43,7 +43,7 @@ Scoring and pricing models help determine how a good or service should be graded
 
 ## Text Summarization
 
-Text summarization is the process of extracting structure from unstructured text data.
+Text summarization is the process of extracting structure from unstructured text data. It leverages natural language processing to reduce 
 
 #### Industry Examples
 
@@ -164,11 +164,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NTQ4Njk3LC0xMjY4NDM1MTM1LC0xMj
-A1NzA1MzQ0LDI2OTEyNDI4Niw2Njk0MjE0MzgsLTEzNDIxNjE3
-NDcsLTIwNjE1ODE3ODMsMTMxMzgwNjYwNCwtMTI4NDMyMzg5NS
-wtMTY4NDkwMjIwNSwxNjQ2NDMxNjAyLDYwNTYwNDc0NiwtMjI0
-OTQwNTk3LDE1MDgzODA0ODAsNTc2OTcxODE1LDM2ODY5NzE1Mi
-w3MzQ4NDA1MTUsLTE1MTU3ODI5ODMsLTExNTAzNjQwMTIsLTE1
-NTE5MDg1ODNdfQ==
+eyJoaXN0b3J5IjpbLTI2ODYxOTk2OCw2MDU1NDg2OTcsLTEyNj
+g0MzUxMzUsLTEyMDU3MDUzNDQsMjY5MTI0Mjg2LDY2OTQyMTQz
+OCwtMTM0MjE2MTc0NywtMjA2MTU4MTc4MywxMzEzODA2NjA0LC
+0xMjg0MzIzODk1LC0xNjg0OTAyMjA1LDE2NDY0MzE2MDIsNjA1
+NjA0NzQ2LC0yMjQ5NDA1OTcsMTUwODM4MDQ4MCw1NzY5NzE4MT
+UsMzY4Njk3MTUyLDczNDg0MDUxNSwtMTUxNTc4Mjk4MywtMTE1
+MDM2NDAxMl19
 -->
