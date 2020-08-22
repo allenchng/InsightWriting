@@ -4,7 +4,7 @@
 
 At Insight, we like to talk about the role of context. Many people leaving careers in academia understand the technical details of statistics or machine learning, but what they don't have is the context for how these ideas are applied. The purpose of this document is to keep a running list of articles / videos to build context for how machine learning is applied across many different industries and many different problems.
 
-This is a living document that is periodically updated. Please consider it a work in progress!
+## 
 
 ## Classification
 
@@ -158,11 +158,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU3MDUzNDQsMjY5MTI0Mjg2LDY2OT
-QyMTQzOCwtMTM0MjE2MTc0NywtMjA2MTU4MTc4MywxMzEzODA2
-NjA0LC0xMjg0MzIzODk1LC0xNjg0OTAyMjA1LDE2NDY0MzE2MD
-IsNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUwODM4MDQ4MCw1NzY5
-NzE4MTUsMzY4Njk3MTUyLDczNDg0MDUxNSwtMTUxNTc4Mjk4My
-wtMTE1MDM2NDAxMiwtMTU1MTkwODU4Myw2MzA0MDE3MjUsMTIw
-OTMyMjQyMl19
+eyJoaXN0b3J5IjpbLTg2MzgyOTExOSwtMTIwNTcwNTM0NCwyNj
+kxMjQyODYsNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMDYxNTgx
+NzgzLDEzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMD
+UsMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIyNDk0MDU5NywxNTA4
+MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNTIsNzM0ODQwNTE1LC
+0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0xNTUxOTA4NTgzLDYz
+MDQwMTcyNV19
 -->
