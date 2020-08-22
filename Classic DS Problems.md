@@ -8,10 +8,9 @@ At Insight, we like to talk about the role of context. Many people leaving caree
 
 When we've sent fellows examples of projects in the past, we've noticed it tends to stifle creativity and lead to a number of copycat projects. We'd like all of you to see what relevant projects in industry look like and identify your own unique applications or pain points.
 
-
 ## Fraud and Anomaly Detection
 
-Fraud detection is an approach to identify malicious and ill-intentioned transactions with a system. Similarly, anomaly detection is an approach used to identify unusual patterns in data.
+Fraud detection is an approach to identify malicious and ill-intentioned transactions within a system. Similarly, anomaly detection is an approach used to identify unusual patterns in data.
 
 #### Industry Examples
 
@@ -28,7 +27,7 @@ Fraud detection is an approach to identify malicious and ill-intentioned transac
 
 ## Scoring / Pricing
 
-Scoring and pricing models help determine how a good or service should be graded or priced. Scoring can be continuous or binary. 
+Scoring and pricing models help determine how a good or service should be graded or priced. 
 
 #### Industry Examples
 - [Machine Learning for Pricing and Inventory Optimization @ Macy's](https://www.youtube.com/watch?time_continue=60&v=U7QQMwiyMxI&feature=emb_title)
@@ -42,7 +41,7 @@ Scoring and pricing models help determine how a good or service should be graded
 
 ## Text Summarization
 
-Text summarization is the process of extracting structure from unstructured text data. It leverages natural language processing to reduce 
+Text summarization is the process of extracting structure from unstructured text data. It helps reduce large corpi of text into more interpretable and generalizable information.
 
 #### Industry Examples
 
@@ -163,7 +162,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTkyNzU0OCwtMjY4NjE5OTY4LDYwNT
+eyJoaXN0b3J5IjpbMTA3NDEwNzIxNSwtMjY4NjE5OTY4LDYwNT
 U0ODY5NywtMTI2ODQzNTEzNSwtMTIwNTcwNTM0NCwyNjkxMjQy
 ODYsNjY5NDIxNDM4LC0xMzQyMTYxNzQ3LC0yMDYxNTgxNzgzLD
 EzMTM4MDY2MDQsLTEyODQzMjM4OTUsLTE2ODQ5MDIyMDUsMTY0
