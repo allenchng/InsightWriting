@@ -82,7 +82,8 @@ Recommendation systems are the the technology that powers the selection of movie
 
 - [Uber - Food Discovery with Uber Eats: Recommending for the Marketplace](https://www.youtube.com/watch?v=UWDVOQq1uzQ&list=PLLEUtp5eGr7BGZmX9Nrk4JYISPo_0nVOr&index=6)
 
-Personalized Recommendations at Etsy
+- [Etsy - Personalized Recommendations at Etsy](https://codeascraft.com/2014/11/17/personalized-recommendations-at-etsy/)
+
 ---
 
 ## Text Search Systems
@@ -159,7 +160,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ2NjM1ODksLTEyMDU3MDUzNDQsMj
+eyJoaXN0b3J5IjpbLTEyNjg0MzUxMzUsLTEyMDU3MDUzNDQsMj
 Y5MTI0Mjg2LDY2OTQyMTQzOCwtMTM0MjE2MTc0NywtMjA2MTU4
 MTc4MywxMzEzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0OTAyMj
 A1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1OTcsMTUw
