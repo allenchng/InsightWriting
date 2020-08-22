@@ -156,7 +156,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 - [Klaviyo - Predicting churn risk our new model](https://www.klaviyo.com/blog/predicting-churn-risk-our-new-model)
 
--[LinkDriving business decisions using data science and machine learning](https://engineering.linkedin.com/blog/2019/05/driving-business-decisions-using-data-science-and-machine-learni)
+-[LinkedIn - Driving business decisions using data science and machine learning](https://engineering.linkedin.com/blog/2019/05/driving-business-decisions-using-data-science-and-machine-learni)
 
 
 ---
@@ -164,11 +164,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzAzNDA4MCwtMTI2ODQzNTEzNSwtMT
-IwNTcwNTM0NCwyNjkxMjQyODYsNjY5NDIxNDM4LC0xMzQyMTYx
-NzQ3LC0yMDYxNTgxNzgzLDEzMTM4MDY2MDQsLTEyODQzMjM4OT
-UsLTE2ODQ5MDIyMDUsMTY0NjQzMTYwMiw2MDU2MDQ3NDYsLTIy
-NDk0MDU5NywxNTA4MzgwNDgwLDU3Njk3MTgxNSwzNjg2OTcxNT
-IsNzM0ODQwNTE1LC0xNTE1NzgyOTgzLC0xMTUwMzY0MDEyLC0x
-NTUxOTA4NTgzXX0=
+eyJoaXN0b3J5IjpbNjA1NTQ4Njk3LC0xMjY4NDM1MTM1LC0xMj
+A1NzA1MzQ0LDI2OTEyNDI4Niw2Njk0MjE0MzgsLTEzNDIxNjE3
+NDcsLTIwNjE1ODE3ODMsMTMxMzgwNjYwNCwtMTI4NDMyMzg5NS
+wtMTY4NDkwMjIwNSwxNjQ2NDMxNjAyLDYwNTYwNDc0NiwtMjI0
+OTQwNTk3LDE1MDgzODA0ODAsNTc2OTcxODE1LDM2ODY5NzE1Mi
+w3MzQ4NDA1MTUsLTE1MTU3ODI5ODMsLTExNTAzNjQwMTIsLTE1
+NTE5MDg1ODNdfQ==
 -->
