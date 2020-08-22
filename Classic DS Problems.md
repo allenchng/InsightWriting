@@ -96,7 +96,7 @@ Recommendation systems are the the technology that powers the selection of movie
 
 ## Time Series Forecasting
 
-Forecasting involves using historical data to estimate future events. Companies use forecasting to make logistical decisions, 
+Forecasting involves using historical data to estimate future events. 
 
 #### Industry Examples
 
@@ -160,11 +160,11 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5Nzk5OTQ0LC0yNjg2MTk5NjgsNjA1NT
-Q4Njk3LC0xMjY4NDM1MTM1LC0xMjA1NzA1MzQ0LDI2OTEyNDI4
-Niw2Njk0MjE0MzgsLTEzNDIxNjE3NDcsLTIwNjE1ODE3ODMsMT
-MxMzgwNjYwNCwtMTI4NDMyMzg5NSwtMTY4NDkwMjIwNSwxNjQ2
-NDMxNjAyLDYwNTYwNDc0NiwtMjI0OTQwNTk3LDE1MDgzODA0OD
-AsNTc2OTcxODE1LDM2ODY5NzE1Miw3MzQ4NDA1MTUsLTE1MTU3
-ODI5ODNdfQ==
+eyJoaXN0b3J5IjpbMTYxMzY1MzU3MCw3Nzk3OTk5NDQsLTI2OD
+YxOTk2OCw2MDU1NDg2OTcsLTEyNjg0MzUxMzUsLTEyMDU3MDUz
+NDQsMjY5MTI0Mjg2LDY2OTQyMTQzOCwtMTM0MjE2MTc0NywtMj
+A2MTU4MTc4MywxMzEzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0
+OTAyMjA1LDE2NDY0MzE2MDIsNjA1NjA0NzQ2LC0yMjQ5NDA1OT
+csMTUwODM4MDQ4MCw1NzY5NzE4MTUsMzY4Njk3MTUyLDczNDg0
+MDUxNV19
 -->
