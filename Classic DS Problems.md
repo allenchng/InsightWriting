@@ -96,7 +96,7 @@ Recommendation systems are the the technology that powers the selection of movie
 
 ## Time Series Forecasting
 
-Forecasting involves using historical data to estimate future events. 
+Forecasting involves using historical data to estimate future events. Companies use forecasting to help make complex logistical decisions.
 
 #### Industry Examples
 
@@ -152,7 +152,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 - [Klaviyo - Predicting churn risk our new model](https://www.klaviyo.com/blog/predicting-churn-risk-our-new-model)
 
--[LinkedIn - Driving business decisions using data science and machine learning](https://engineering.linkedin.com/blog/2019/05/driving-business-decisions-using-data-science-and-machine-learni)
+- [LinkedIn - Driving business decisions using data science and machine learning](https://engineering.linkedin.com/blog/2019/05/driving-business-decisions-using-data-science-and-machine-learni)
 
 
 ---
@@ -160,7 +160,7 @@ Churn is when users leave your product or service. Understanding who is likely t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzY1MzU3MCw3Nzk3OTk5NDQsLTI2OD
+eyJoaXN0b3J5IjpbMTEwMDU1ODI1Myw3Nzk3OTk5NDQsLTI2OD
 YxOTk2OCw2MDU1NDg2OTcsLTEyNjg0MzUxMzUsLTEyMDU3MDUz
 NDQsMjY5MTI0Mjg2LDY2OTQyMTQzOCwtMTM0MjE2MTc0NywtMj
 A2MTU4MTc4MywxMzEzODA2NjA0LC0xMjg0MzIzODk1LC0xNjg0
